@@ -62,3 +62,14 @@ The cleaning thresholds are practice assumptions. Chart results describe this sy
 Learning Focus
 
 This project practises data cleaning, type conversion, handling missing values, reviewing conflicting records and creating charts. It was completed with ChatGPT assistance for coding guidance and explanations.
+
+## Chart Previews
+
+### Median Listed Price by Brand
+![Median Listed Price by Brand](price_by_brand.png)
+
+### Mileage vs Listed Price
+![Mileage vs Listed Price](mileage_vs_price.png)
+
+### Car Age vs Listed Price
+![Car Age vs Listed Price](age_vs_price.png)
