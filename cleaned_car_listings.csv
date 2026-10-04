@@ -1,0 +1,872 @@
+Listing_ID,Brand,Model,Year,Price_AED,Mileage_KM,Fuel,Transmission,City,Listing_Date,Seller_Type,Status
+CAR-0845,Mercedes-Benz,CLA 250,2016,66500.0,159556.0,Petrol,Automatic,Sharjah,2026-01-01,Dealer,Available
+CAR-0383,Nissan,Altima,2023,46500.0,100224.0,Diesel,Automatic,Abu Dhabi,2026-02-02,Dealer,Available
+CAR-0125,Lexus,ES 300h,2012,39500.0,226368.0,Hybrid,Manual,Dubai,2025-02-24,Individual,Available
+CAR-0931,Mercedes-Benz,CLA 250,2022,105500.0,167028.0,Diesel,Manual,Abu Dhabi,,Dealer,Available
+CAR-0622,Mercedes-Benz,CLA 250,2020,91500.0,36665.0,Diesel,Manual,Abu Dhabi,,Dealer,Available
+CAR-0675,Toyota,Corolla,2023,42000.0,,Petrol,Automatic,Abu Dhabi,2026-02-17,Individual,Available
+CAR-0571,Mercedes-Benz,CLA 250,2023,109500.0,107168.0,Petrol,Automatic,Dubai,2025-05-25,Dealer,Available
+CAR-0939,Nissan,Altima,2017,29000.0,158956.0,Petrol,Manual,Abu Dhabi,2026-01-07,Individual,Available
+CAR-0072,Kia,Sportage,2012,19500.0,217479.0,Petrol,Automatic,Ajman,2025-05-01,Dealer,Available
+CAR-0752,Kia,Sportage,2025,68500.0,51104.0,Diesel,Manual,Sharjah,2025-11-27,Dealer,Available
+CAR-0224,Nissan,CLA 250,2015,65000.0,20754.0,Petrol,Manual,Abu Dhabi,2025-12-30,Dealer,Available
+CAR-0893,Toyota,Camry,2016,38000.0,72329.0,Petrol,Automatic,Ajman,2025-05-01,Dealer,Available
+CAR-0601,Kia,Sportage,2020,52500.0,182021.0,Diesel,Manual,Abu Dhabi,2026-05-13,Individual,Available
+CAR-0348,Toyota,Corolla,2012,15500.0,51151.0,Petrol,Automatic,Abu Dhabi,2025-01-19,Individual,Available
+CAR-0838,Toyota,Corolla,2012,13500.0,225399.0,Diesel,Manual,Ajman,2025-03-22,Individual,Available
+CAR-0869,Nissan,Altima,2019,42000.0,146133.0,Diesel,Automatic,Abu Dhabi,2026-09-08,Dealer,Available
+CAR-0831,Mercedes-Benz,CLA 250,2022,105500.0,39797.0,Diesel,Manual,Sharjah,2025-07-30,Dealer,Available
+CAR-0820,Mercedes-Benz,CLA 250,2024,116500.0,73912.0,Petrol,Manual,Sharjah,2025-12-19,Individual,Available
+CAR-0112,Nissan,Altima,2019,38500.0,47643.0,Diesel,Automatic,Ajman,2025-07-21,Dealer,Available
+CAR-0487,Nissan,Altima,2015,12000.0,41209.0,Petrol,Manual,Sharjah,2025-06-15,Individual,Available
+CAR-0464,Kia,Sportage,2020,55500.0,54428.0,Petrol,Manual,Abu Dhabi,2026-07-21,Dealer,Available
+CAR-0637,Toyota,Corolla,,29000.0,118075.0,Petrol,Automatic,Ajman,2025-03-06,Dealer,Available
+CAR-0867,Kia,Sportage,2024,70500.0,44199.0,Petrol,Manual,Dubai,2025-05-06,Dealer,Available
+CAR-0129,Toyota,Corolla,2019,32500.0,203929.0,Petrol,Manual,Sharjah,2025-04-14,Dealer,Available
+CAR-0338,Kia,Sportage,2013,27000.0,34720.0,Petrol,Automatic,Sharjah,2026-09-15,Dealer,Available
+CAR-0085,Toyota,Corolla,2018,34000.0,93223.0,Diesel,Automatic,Sharjah,2026-08-14,Dealer,Available
+CAR-0128,Toyota,Camry,2025,75000.0,101478.0,Diesel,Manual,Dubai,2025-01-22,Dealer,Available
+CAR-0621,Hyundai,Tucson,2013,27500.0,215300.0,Diesel,Manual,Sharjah,,Dealer,Available
+CAR-0761,Toyota,Camry,2012,25500.0,34060.0,Petrol,Automatic,Ajman,2025-09-20,Individual,Available
+CAR-0086,Nissan,Altima,2013,23000.0,130144.0,Diesel,Automatic,Sharjah,2025-04-08,Dealer,Available
+CAR-0619,Kia,Sportage,2018,40000.0,50837.0,Diesel,Automatic,Dubai,,Dealer,Available
+CAR-0004,Hyundai,Tucson,2016,37000.0,,Petrol,Automatic,Ajman,2025-02-08,Individual,Available
+CAR-0095,Lexus,ES 300h,2025,127000.0,114441.0,Hybrid,Manual,Sharjah,2026-01-19,Dealer,Available
+CAR-0711,Toyota,Camry,2016,35000.0,181831.0,Petrol,Manual,Abu Dhabi,2025-04-28,Individual,Available
+CAR-0851,Nissan,Altima,2014,21000.0,102675.0,Petrol,Automatic,Ajman,2026-06-25,Individual,Available
+CAR-0376,Hyundai,Tucson,2020,52500.0,164320.0,Petrol,Manual,Ajman,2025-09-20,Dealer,Available
+CAR-0875,Mercedes-Benz,CLA 250,2022,102000.0,157448.0,Diesel,Manual,Sharjah,2026-06-22,Dealer,Available
+CAR-0837,Honda,Civic,2014,26000.0,52069.0,Petrol,Manual,Abu Dhabi,2026-05-02,Dealer,Available
+CAR-0447,Kia,Sportage,2025,71500.0,158316.0,Petrol,Automatic,Sharjah,2026-07-31,Individual,Available
+CAR-0750,Toyota,Corolla,2017,32000.0,176748.0,Diesel,Manual,Dubai,2026-03-30,Individual,Available
+CAR-0724,Honda,Civic,2024,51000.0,198148.0,Unknown,Automatic,Ajman,2025-11-18,Individual,Available
+CAR-0281,Toyota,Camry,2021,59500.0,46889.0,Diesel,Automatic,Abu Dhabi,2025-03-24,Individual,Available
+CAR-0756,Hyundai,Tucson,2021,52500.0,144013.0,Petrol,Manual,Ajman,2026-05-02,Dealer,Available
+CAR-0529,Nissan,Altima,2020,27500.0,160709.0,Petrol,Manual,Sharjah,2025-07-16,Dealer,Available
+CAR-0650,Toyota,Camry,,74500.0,202392.0,Diesel,Automatic,Ajman,2026-02-08,Dealer,Available
+CAR-0308,Nissan,Altima,2019,39000.0,186387.0,Diesel,Automatic,Dubai,2025-12-14,Individual,Available
+CAR-0286,Mercedes-Benz,CLA 250,2022,105500.0,159324.0,Diesel,Manual,Abu Dhabi,2025-06-10,Individual,Available
+CAR-0504,Mercedes-Benz,CLA 250,2014,53000.0,,Petrol,Manual,Ajman,2025-08-07,Individual,Available
+CAR-0061,Mercedes-Benz,CLA 250,2020,88000.0,140824.0,Petrol,Manual,Abu Dhabi,2026-03-01,Individual,Available
+CAR-0712,Toyota,Camry,2020,57500.0,170147.0,Diesel,Manual,Dubai,2026-01-19,Individual,Available
+CAR-0789,Honda,Civic,2021,44500.0,85377.0,Petrol,Automatic,Sharjah,2026-07-01,Individual,Available
+CAR-0674,Nissan,Altima,2024,47500.0,,Petrol,Automatic,Ajman,2025-05-09,Dealer,Available
+CAR-0192,Kia,Sportage,2020,51500.0,162177.0,Petrol,Manual,Ajman,2026-06-17,Dealer,Available
+CAR-0073,Toyota,Camry,2023,62000.0,167060.0,Petrol,Manual,Ajman,2025-07-03,Dealer,Available
+CAR-0466,Kia,Sportage,2025,72500.0,154911.0,Petrol,Automatic,Ajman,2026-08-21,Dealer,Available
+CAR-0862,Nissan,Altima,2013,24500.0,104523.0,Diesel,Manual,Abu Dhabi,2025-12-28,Dealer,Available
+CAR-0424,Toyota,Corolla,2016,21000.0,60211.0,Diesel,Manual,Sharjah,2026-04-08,Individual,Available
+CAR-0456,Lexus,ES 300h,2016,67500.0,112606.0,Hybrid,Manual,Abu Dhabi,2025-11-29,Dealer,Available
+CAR-0127,Nissan,Altima,2022,45500.0,104433.0,Petrol,Manual,Abu Dhabi,2025-10-07,Individual,Available
+CAR-0639,Lexus,ES 300h,,120500.0,78078.0,Hybrid,Automatic,Ajman,2026-08-09,Individual,Available
+CAR-0646,Mercedes-Benz,CLA 250,,42500.0,105445.0,Petrol,Manual,Sharjah,2025-01-19,Dealer,Available
+CAR-0452,Kia,Sportage,2022,55000.0,38497.0,Petrol,Automatic,Ajman,2025-03-17,Dealer,Available
+CAR-0807,Toyota,Camry,2019,48000.0,99555.0,Petrol,Manual,Dubai,2025-01-19,Dealer,Available
+CAR-0603,Toyota,Camry,2024,65000.0,148150.0,Diesel,Automatic,Abu Dhabi,,Individual,Available
+CAR-0304,Lexus,ES 300h,2015,64000.0,110388.0,Hybrid,Manual,Dubai,2025-03-26,Individual,Available
+CAR-0067,Lexus,ES 300h,2022,112000.0,192860.0,Hybrid,Manual,Dubai,2026-02-16,Dealer,Available
+CAR-0812,Mercedes-Benz,CLA 250,2020,91500.0,13209.0,Diesel,Manual,Abu Dhabi,2026-07-30,Dealer,Available
+CAR-0014,Nissan,Altima,2020,39500.0,59079.0,Petrol,Automatic,Dubai,,Individual,Available
+CAR-0237,Hyundai,Tucson,2023,59000.0,138288.0,Diesel,Automatic,Dubai,2025-03-28,Individual,Available
+CAR-0460,Toyota,Camry,2012,28500.0,8098.0,Diesel,Manual,Ajman,,Dealer,Available
+CAR-0500,Nissan,Altima,2016,30500.0,,Diesel,Automatic,Dubai,2026-06-16,Dealer,Available
+CAR-0843,Toyota,Camry,2012,22500.0,6617.0,Diesel,Automatic,Abu Dhabi,2026-09-22,Individual,Available
+CAR-0197,Kia,Sportage,2022,58000.0,52494.0,Petrol,Automatic,Ajman,2025-10-07,Dealer,Available
+CAR-0725,Honda,Civic,2012,17000.0,152531.0,Unknown,Automatic,Ajman,2026-08-29,Individual,Available
+CAR-0628,Lexus,ES 300h,2025,125500.0,155682.0,Hybrid,Automatic,Ajman,,Dealer,Available
+CAR-0610,Toyota,Camry,2017,44000.0,56775.0,Diesel,Manual,Abu Dhabi,2026-05-13,Dealer,Available
+CAR-0407,Mercedes-Benz,CLA 250,2012,37000.0,115003.0,Petrol,Manual,Sharjah,2026-06-03,Dealer,Available
+CAR-0536,Hyundai,Tucson,2014,25000.0,69581.0,Petrol,Automatic,Abu Dhabi,2025-11-08,Dealer,Available
+CAR-0239,Nissan,Corolla,2012,16500.0,100925.0,Diesel,Manual,Abu Dhabi,2025-12-03,Individual,Available
+CAR-0385,Mercedes-Benz,CLA 250,2019,83500.0,39711.0,Petrol,Automatic,Dubai,2026-04-07,Individual,Available
+CAR-0546,Kia,Sportage,2015,36500.0,142453.0,Diesel,Manual,Dubai,2025-09-18,Dealer,Available
+CAR-0235,Toyota,Civic,2021,42000.0,140393.0,Petrol,Automatic,Ajman,2026-05-13,Dealer,Available
+CAR-0556,Kia,Sportage,2014,31500.0,129512.0,Diesel,Automatic,Sharjah,2025-12-23,Individual,Available
+CAR-0525,Toyota,Corolla,,35000.0,147335.0,Diesel,Automatic,Abu Dhabi,2026-04-26,Individual,Available
+CAR-0064,Toyota,Corolla,2014,17000.0,169529.0,Petrol,Manual,Dubai,2025-11-29,Dealer,Available
+CAR-0218,Lexus,ES 300h,2018,81000.0,230053.0,Hybrid,Automatic,Dubai,2026-09-18,Individual,Available
+CAR-0166,Toyota,Corolla,2015,26000.0,135595.0,Petrol,Manual,Ajman,2026-02-27,Individual,Available
+CAR-0113,Honda,Civic,2020,41000.0,59686.0,Diesel,Automatic,Ajman,2026-10-03,Individual,Available
+CAR-0048,Toyota,Camry,2024,67500.0,149687.0,Petrol,Manual,Unknown,2025-03-14,Individual,Available
+CAR-0055,Kia,Sportage,2021,56000.0,54014.0,Unknown,Manual,Sharjah,,Individual,Available
+CAR-0913,Mercedes-Benz,CLA 250,2015,58500.0,30948.0,Petrol,Manual,Sharjah,2025-03-01,Dealer,Available
+CAR-0358,Mercedes-Benz,CLA 250,2012,43000.0,183248.0,Petrol,Manual,Ajman,2025-07-01,Dealer,Available
+CAR-0945,Nissan,Altima,2018,34000.0,164091.0,Petrol,Manual,Abu Dhabi,2025-06-13,Individual,Available
+CAR-0808,Nissan,Altima,2023,44000.0,173624.0,Diesel,Manual,Sharjah,,Individual,Available
+CAR-0800,Toyota,Corolla,2018,28000.0,211231.0,Diesel,Automatic,Abu Dhabi,2026-03-28,Dealer,Available
+CAR-0780,Hyundai,Tucson,2019,45500.0,45900.0,Diesel,Automatic,Ajman,2025-05-08,Dealer,Available
+CAR-0897,Toyota,Camry,2019,54000.0,77982.0,Petrol,Automatic,Abu Dhabi,2025-09-16,Individual,Available
+CAR-0794,Toyota,Camry,2014,36000.0,17232.0,Petrol,Manual,Abu Dhabi,2025-03-04,Dealer,Available
+CAR-0842,Lexus,ES 300h,2022,105000.0,202618.0,Hybrid,Manual,Abu Dhabi,2025-07-25,Individual,Available
+CAR-0648,Lexus,ES 300h,,64000.0,165299.0,Hybrid,Automatic,Ajman,2026-03-19,Dealer,Available
+CAR-0186,Toyota,Camry,2019,55000.0,45904.0,Petrol,Automatic,Abu Dhabi,2026-01-07,Dealer,Available
+CAR-0126,Mercedes-Benz,CLA 250,2023,116500.0,174358.0,Diesel,Manual,Sharjah,2025-04-18,Dealer,Available
+CAR-0380,Nissan,Altima,2012,15500.0,6248.0,Petrol,Manual,Abu Dhabi,2025-02-17,Dealer,Available
+CAR-0840,Kia,Sportage,2016,40500.0,188914.0,Diesel,Manual,Ajman,2026-03-13,Dealer,Available
+CAR-0805,Nissan,Altima,2023,50000.0,7494.0,Petrol,Automatic,Sharjah,2025-04-04,Individual,Available
+CAR-0576,Nissan,Altima,2020,35500.0,183609.0,Diesel,Manual,Ajman,2025-04-21,Dealer,Available
+CAR-0341,Toyota,Corolla,2013,14000.0,157806.0,Petrol,Automatic,Sharjah,2025-05-19,Individual,Available
+CAR-0848,Lexus,ES 300h,2015,62000.0,13136.0,Hybrid,Manual,Abu Dhabi,2025-08-01,Individual,Available
+CAR-0771,Toyota,Camry,2018,46000.0,220359.0,Diesel,Automatic,Dubai,2025-07-06,Dealer,Available
+CAR-0921,Nissan,Altima,2018,33500.0,144552.0,Petrol,Automatic,Abu Dhabi,2026-07-04,Dealer,Available
+CAR-0481,Nissan,Altima,2024,12000.0,94270.0,Diesel,Automatic,Ajman,2025-02-15,Individual,Available
+CAR-0811,Hyundai,Tucson,2018,41500.0,111372.0,Diesel,Manual,Abu Dhabi,2025-04-11,Individual,Available
+CAR-0586,Toyota,Camry,2012,27000.0,83472.0,Diesel,Manual,Sharjah,2025-03-31,Individual,Available
+CAR-0311,Nissan,Altima,2012,13000.0,177355.0,Petrol,Manual,Dubai,2025-05-13,Dealer,Available
+CAR-0592,Toyota,Camry,2025,78500.0,163236.0,Diesel,Manual,Ajman,,Individual,Available
+CAR-0501,Hyundai,Tucson,2020,51500.0,85000.0,Diesel,Manual,Sharjah,2026-07-19,Dealer,Available
+CAR-0448,Lexus,ES 300h,2012,39500.0,163150.0,Hybrid,Manual,Abu Dhabi,2026-05-31,Individual,Available
+CAR-0825,Kia,Sportage,2025,71000.0,190974.0,Diesel,Manual,Sharjah,2025-03-26,Dealer,Available
+CAR-0534,Mercedes-Benz,CLA 250,2017,77500.0,63960.0,Petrol,Manual,Abu Dhabi,2025-03-11,Dealer,Available
+CAR-0372,Honda,Civic,2021,48500.0,92827.0,Petrol,Automatic,Ajman,2025-01-04,Individual,Available
+CAR-0633,Toyota,Corolla,,51500.0,169341.0,Petrol,Automatic,Dubai,2025-06-23,Dealer,Available
+CAR-0640,Mercedes-Benz,CLA 250,,95500.0,128141.0,Petrol,Automatic,Abu Dhabi,2025-01-18,Individual,Available
+CAR-0492,Toyota,Corolla,2018,34000.0,,Petrol,Manual,Sharjah,2025-12-25,Dealer,Available
+CAR-0422,Honda,Civic,2021,44500.0,36918.0,Petrol,Automatic,Abu Dhabi,2025-07-02,Individual,Available
+CAR-0216,Honda,Civic,2019,43500.0,141495.0,Petrol,Manual,Sharjah,2026-03-30,Dealer,Available
+CAR-0223,Mercedes-Benz,CLA 250,2018,84500.0,57522.0,Petrol,Manual,Ajman,2025-07-28,Individual,Available
+CAR-0580,Kia,Sportage,2013,28500.0,162699.0,Petrol,Automatic,Sharjah,2025-02-10,Individual,Available
+CAR-0018,Nissan,Altima,2020,41500.0,,Diesel,Automatic,Ajman,2025-02-06,Dealer,Available
+CAR-0245,Toyota,CLA 250,2023,116000.0,127148.0,Petrol,Automatic,Dubai,2026-04-18,Dealer,Available
+CAR-0299,Lexus,ES 300h,2019,90500.0,99473.0,Hybrid,Manual,Sharjah,,Individual,Available
+CAR-0589,Toyota,Corolla,2022,36500.0,192051.0,Diesel,Manual,Abu Dhabi,2025-06-20,Individual,Available
+CAR-0332,Mercedes-Benz,CLA 250,2020,97500.0,117433.0,Petrol,Manual,Sharjah,2026-08-25,Individual,Available
+CAR-0759,Nissan,Altima,2015,30000.0,48797.0,Petrol,Automatic,Ajman,2026-04-16,Individual,Available
+CAR-0389,Mercedes-Benz,CLA 250,2025,123500.0,155275.0,Petrol,Manual,Abu Dhabi,2025-04-21,Dealer,Available
+CAR-0425,Nissan,Altima,2022,46000.0,113318.0,Diesel,Automatic,Sharjah,2025-05-09,Dealer,Available
+CAR-0575,Lexus,ES 300h,2012,37500.0,116469.0,Hybrid,Manual,Abu Dhabi,2025-01-09,Dealer,Available
+CAR-0013,Mercedes-Benz,CLA 250,2015,56000.0,133677.0,Diesel,Automatic,Unknown,2025-06-19,Dealer,Available
+CAR-0602,Toyota,Camry,2021,58500.0,75427.0,Diesel,Automatic,Abu Dhabi,,Individual,Available
+CAR-0669,Kia,Sportage,2021,53500.0,,Petrol,Automatic,Ajman,2026-07-06,Individual,Available
+CAR-0279,Toyota,Corolla,2017,23000.0,212543.0,Petrol,Manual,Abu Dhabi,2025-12-18,Dealer,Available
+CAR-0323,Mercedes-Benz,CLA 250,2017,73500.0,39737.0,Petrol,Manual,Sharjah,2026-02-14,Individual,Available
+CAR-0035,Mercedes-Benz,CLA 250,2013,49000.0,99843.0,Petrol,Automatic,Dubai,,Dealer,Available
+CAR-0328,Honda,Civic,2023,53500.0,210969.0,Petrol,Automatic,Abu Dhabi,2026-01-03,Dealer,Available
+CAR-0634,Kia,Sportage,,50000.0,225937.0,Diesel,Automatic,Ajman,2025-01-24,Dealer,Available
+CAR-0552,Toyota,Corolla,2017,24000.0,170155.0,Diesel,Manual,Dubai,2025-12-08,Dealer,Available
+CAR-0677,Nissan,Altima,2018,31000.0,,Diesel,Automatic,Sharjah,2026-04-05,Dealer,Available
+CAR-0009,Mercedes-Benz,Unknown,2012,36500.0,217203.0,Diesel,Automatic,Abu Dhabi,2026-04-09,Individual,Available
+CAR-0434,Toyota,Corolla,2024,48000.0,64801.0,Petrol,Manual,Dubai,2025-08-04,Individual,Available
+CAR-0824,Hyundai,Tucson,2013,28000.0,78337.0,Diesel,Automatic,Ajman,2025-01-28,Dealer,Available
+CAR-0319,Mercedes-Benz,CLA 250,2016,63500.0,213799.0,Petrol,Manual,Dubai,2025-09-14,Individual,Available
+CAR-0905,Honda,Civic,2022,43500.0,6859.0,Petrol,Automatic,Ajman,2026-02-01,Individual,Available
+CAR-0515,Kia,Sportage,,64000.0,73940.0,Petrol,Manual,Sharjah,2026-01-18,Dealer,Available
+CAR-0507,Hyundai,Tucson,2025,68500.0,85000.0,Diesel,Manual,Dubai,2026-05-27,Dealer,Available
+CAR-0096,Toyota,Corolla,2025,46000.0,85572.0,Diesel,Automatic,Dubai,2025-12-04,Dealer,Available
+CAR-0714,Nissan,Altima,2022,44000.0,9781.0,Diesel,Automatic,Abu Dhabi,2026-01-17,Individual,Unknown
+CAR-0395,Mercedes-Benz,CLA 250,2020,93500.0,145751.0,Petrol,Manual,Ajman,,Dealer,Available
+CAR-0261,Kia,Sportage,2022,61000.0,217193.0,Diesel,Manual,Abu Dhabi,2026-08-24,Dealer,Available
+CAR-0155,Lexus,ES 300h,2013,47000.0,19832.0,Hybrid,Automatic,Sharjah,2025-06-16,Dealer,Available
+CAR-0868,Toyota,Corolla,2012,11000.0,86107.0,Petrol,Manual,Abu Dhabi,2025-07-02,Individual,Available
+CAR-0679,Toyota,Corolla,2014,19000.0,,Diesel,Automatic,Abu Dhabi,2025-07-21,Dealer,Available
+CAR-0423,Nissan,Altima,2016,25000.0,136798.0,Diesel,Manual,Ajman,2026-05-07,Dealer,Available
+CAR-0354,Hyundai,Tucson,2012,18000.0,115562.0,Petrol,Manual,Ajman,2025-12-15,Dealer,Available
+CAR-0151,Kia,Sportage,2025,71500.0,206391.0,Petrol,Automatic,Dubai,2026-03-06,Individual,Available
+CAR-0599,Hyundai,Tucson,2024,61500.0,148560.0,Diesel,Automatic,Abu Dhabi,2025-06-24,Dealer,Available
+CAR-0030,Mercedes-Benz,Unknown,2021,99000.0,115201.0,Diesel,Automatic,Abu Dhabi,2025-09-22,Individual,Available
+CAR-0554,Toyota,Camry,2020,59000.0,206761.0,Petrol,Automatic,Abu Dhabi,2026-06-10,Individual,Available
+CAR-0790,Honda,Civic,2019,34500.0,231808.0,Diesel,Manual,Dubai,2026-03-08,Individual,Available
+CAR-0148,Nissan,Altima,2020,37500.0,218200.0,Diesel,Manual,Dubai,2025-06-02,Individual,Available
+CAR-0280,Lexus,ES 300h,2024,126500.0,140598.0,Hybrid,Manual,Sharjah,2026-03-21,Individual,Available
+CAR-0846,Mercedes-Benz,CLA 250,2016,67000.0,168914.0,Petrol,Automatic,Abu Dhabi,2026-03-01,Individual,Available
+CAR-0373,Kia,Sportage,2012,23500.0,82497.0,Petrol,Automatic,Ajman,2025-08-18,Dealer,Available
+CAR-0027,Lexus,ES 300h,2019,93500.0,194140.0,Hybrid,Manual,Unknown,2026-07-13,Dealer,Available
+CAR-0782,Toyota,Corolla,2015,19000.0,228997.0,Diesel,Automatic,Sharjah,2025-02-10,Dealer,Available
+CAR-0230,Hyundai,Corolla,2021,38500.0,46245.0,Diesel,Automatic,Abu Dhabi,2026-07-30,Dealer,Available
+CAR-0802,Honda,Civic,2014,25500.0,148974.0,Diesel,Automatic,Dubai,2025-01-11,Dealer,Available
+CAR-0204,Kia,Sportage,2016,34000.0,62194.0,Diesel,Manual,Abu Dhabi,2025-11-24,Individual,Available
+CAR-0626,Toyota,Corolla,2022,36500.0,91492.0,Diesel,Automatic,Dubai,,Dealer,Available
+CAR-0310,Toyota,Camry,2024,73500.0,233112.0,Diesel,Automatic,Dubai,,Individual,Available
+CAR-0379,Kia,Sportage,2013,23000.0,21336.0,Petrol,Automatic,Ajman,2026-06-23,Individual,Available
+CAR-0288,Lexus,ES 300h,2013,51000.0,193856.0,Hybrid,Manual,Sharjah,2025-12-03,Individual,Available
+CAR-0835,Honda,Civic,2014,25000.0,182102.0,Diesel,Manual,Dubai,2025-12-02,Individual,Available
+CAR-0433,Honda,Civic,2018,35500.0,38332.0,Diesel,Automatic,Sharjah,2026-05-30,Individual,Available
+CAR-0457,Toyota,Corolla,2014,20000.0,180060.0,Diesel,Automatic,Dubai,2026-08-05,Dealer,Available
+CAR-0763,Honda,Civic,2015,29500.0,33605.0,Petrol,Manual,Ajman,2026-07-17,Dealer,Available
+CAR-0671,Lexus,ES 300h,2022,113500.0,,Hybrid,Automatic,Dubai,2025-12-26,Dealer,Available
+CAR-0512,Lexus,ES 300h,,45500.0,226004.0,Hybrid,Manual,Sharjah,2025-04-21,Dealer,Available
+CAR-0258,Nissan,Sportage,2025,65500.0,59812.0,Petrol,Automatic,Sharjah,2025-01-09,Individual,Available
+CAR-0620,Hyundai,Tucson,2023,60000.0,206502.0,Petrol,Manual,Sharjah,,Dealer,Available
+CAR-0015,Unknown,Sportage,2015,35000.0,186736.0,Petrol,Automatic,Ajman,2025-01-31,Dealer,Available
+CAR-0577,Toyota,Camry,2022,59000.0,78135.0,Diesel,Automatic,Dubai,2026-03-25,Dealer,Available
+CAR-0879,Toyota,Camry,2025,78000.0,50815.0,Petrol,Manual,Abu Dhabi,,Dealer,Available
+CAR-0506,Toyota,Corolla,2015,25500.0,,Diesel,Automatic,Sharjah,2025-04-30,Individual,Available
+CAR-0631,Honda,Civic,,56500.0,212351.0,Diesel,Automatic,Dubai,2026-02-21,Individual,Available
+CAR-0907,Mercedes-Benz,CLA 250,2018,83000.0,228306.0,Diesel,Manual,Abu Dhabi,2025-08-02,Dealer,Available
+CAR-0058,Toyota,Corolla,2018,29000.0,,Petrol,Automatic,Dubai,2025-07-19,Dealer,Available
+CAR-0406,Toyota,Camry,2016,35000.0,150879.0,Petrol,Automatic,Ajman,2025-03-18,Dealer,Available
+CAR-0638,Nissan,Altima,,37500.0,170869.0,Petrol,Automatic,Sharjah,2025-12-08,Individual,Available
+CAR-0797,Lexus,ES 300h,2019,93500.0,32372.0,Hybrid,Automatic,Ajman,2026-04-21,Dealer,Available
+CAR-0089,Nissan,Altima,2021,42000.0,108413.0,Diesel,Automatic,Abu Dhabi,2026-03-18,Dealer,Available
+CAR-0578,Kia,Sportage,2017,37000.0,194033.0,Diesel,Automatic,Abu Dhabi,2025-09-28,Dealer,Available
+CAR-0156,Toyota,Camry,2018,48000.0,98658.0,Diesel,Manual,Sharjah,2025-01-01,Individual,Available
+CAR-0300,Honda,Civic,2025,52500.0,168979.0,Petrol,Automatic,Ajman,2025-08-11,Dealer,Available
+CAR-0264,Nissan,Altima,2024,55500.0,11035.0,Diesel,Manual,Abu Dhabi,2025-11-12,Dealer,Available
+CAR-0123,Hyundai,Tucson,2016,33500.0,103561.0,Diesel,Manual,Ajman,2026-08-30,Individual,Available
+CAR-0625,Honda,Civic,2015,31500.0,222859.0,Diesel,Automatic,Ajman,,Individual,Available
+CAR-0818,Nissan,Altima,2022,44000.0,14079.0,Petrol,Automatic,Abu Dhabi,2025-03-27,Dealer,Available
+CAR-0545,Toyota,Camry,2015,34000.0,144847.0,Diesel,Automatic,Ajman,2025-06-07,Dealer,Available
+CAR-0670,Nissan,Altima,2021,38500.0,,Petrol,Automatic,Abu Dhabi,2026-06-30,Dealer,Available
+CAR-0814,Mercedes-Benz,CLA 250,2025,120500.0,174809.0,Petrol,Manual,Sharjah,2025-10-28,Dealer,Available
+CAR-0569,Lexus,ES 300h,2020,96000.0,159666.0,Hybrid,Automatic,Abu Dhabi,2026-05-29,Dealer,Available
+CAR-0293,Toyota,Camry,2018,42500.0,116180.0,Diesel,Automatic,Dubai,2025-01-02,Dealer,Available
+CAR-0400,Toyota,Corolla,2021,33500.0,158136.0,Diesel,Automatic,Ajman,2026-05-28,Individual,Available
+CAR-0518,Lexus,ES 300h,,134500.0,118356.0,Hybrid,Automatic,Sharjah,2025-10-04,Individual,Available
+CAR-0421,Mercedes-Benz,CLA 250,2012,43500.0,229638.0,Petrol,Manual,Abu Dhabi,2025-06-03,Individual,Available
+CAR-0165,Mercedes-Benz,CLA 250,2014,54500.0,210734.0,Diesel,Manual,Dubai,2026-08-16,Dealer,Available
+CAR-0177,Toyota,Camry,2023,67500.0,126640.0,Petrol,Manual,Ajman,2025-10-01,Individual,Available
+CAR-0356,Honda,Civic,2017,34500.0,168697.0,Diesel,Manual,Sharjah,2025-11-15,Individual,Available
+CAR-0314,Toyota,Camry,2024,69500.0,142910.0,Petrol,Automatic,Dubai,2025-03-16,Dealer,Available
+CAR-0445,Hyundai,Tucson,2012,17500.0,185707.0,Petrol,Manual,Ajman,2025-10-05,Individual,Available
+CAR-0596,Toyota,Corolla,2014,17000.0,154861.0,Petrol,Automatic,Abu Dhabi,2026-08-27,Dealer,Available
+CAR-0609,Toyota,Corolla,2025,49500.0,165519.0,Petrol,Automatic,Sharjah,,Dealer,Available
+CAR-0137,Toyota,Corolla,2016,21000.0,112895.0,Diesel,Manual,Sharjah,2026-06-23,Dealer,Available
+CAR-0819,Hyundai,Tucson,2014,30000.0,205654.0,Diesel,Automatic,Abu Dhabi,2026-06-02,Individual,Available
+CAR-0847,Mercedes-Benz,CLA 250,2023,111500.0,138877.0,Diesel,Automatic,Dubai,2025-09-29,Individual,Available
+CAR-0071,Toyota,Corolla,2025,52000.0,181863.0,Petrol,Manual,Abu Dhabi,2026-05-27,Dealer,Available
+CAR-0783,Nissan,Altima,2018,35000.0,225504.0,Diesel,Automatic,Sharjah,2026-02-14,Individual,Available
+CAR-0173,Toyota,Camry,2021,54500.0,173079.0,Diesel,Manual,Dubai,2026-06-16,Dealer,Available
+CAR-0607,Nissan,Altima,2018,37000.0,146822.0,Diesel,Manual,Sharjah,2026-05-13,Individual,Available
+CAR-0723,Mercedes-Benz,CLA 250,2019,87500.0,132387.0,Unknown,Automatic,Dubai,2026-08-25,Dealer,Available
+CAR-0087,Hyundai,Tucson,2014,29000.0,80553.0,Diesel,Automatic,Ajman,2025-02-03,Dealer,Available
+CAR-0870,Kia,Sportage,2015,32500.0,156651.0,Petrol,Automatic,Ajman,2025-02-08,Individual,Available
+CAR-0225,Hyundai,Altima,2014,19500.0,203954.0,Diesel,Automatic,Dubai,2025-05-30,Dealer,Available
+CAR-0906,Lexus,ES 300h,2018,86000.0,161694.0,Hybrid,Manual,Abu Dhabi,2025-06-04,Individual,Available
+CAR-0882,Honda,Civic,2017,36500.0,168004.0,Diesel,Automatic,Abu Dhabi,2025-07-15,Individual,Available
+CAR-0005,Nissan,Altima,2024,51500.0,184875.0,Unknown,Automatic,Ajman,2026-03-04,Dealer,Available
+CAR-0895,Nissan,Altima,2023,51500.0,159235.0,Petrol,Manual,Sharjah,2025-10-21,Individual,Available
+CAR-0306,Mercedes-Benz,CLA 250,2013,48000.0,86337.0,Petrol,Manual,Dubai,2025-02-15,Individual,Available
+CAR-0322,Mercedes-Benz,CLA 250,2017,78000.0,97282.0,Diesel,Manual,Abu Dhabi,2026-05-26,Dealer,Available
+CAR-0920,Honda,Civic,2016,28500.0,129634.0,Petrol,Manual,Abu Dhabi,2025-08-15,Dealer,Available
+CAR-0262,Kia,Sportage,2015,37500.0,127041.0,Petrol,Automatic,Sharjah,2025-06-10,Individual,Available
+CAR-0806,Honda,Civic,2023,48000.0,18452.0,Petrol,Manual,Abu Dhabi,2025-05-12,Individual,Available
+CAR-0517,Toyota,Camry,,46000.0,101834.0,Diesel,Automatic,Abu Dhabi,2025-08-28,Dealer,Available
+CAR-0273,Lexus,ES 300h,2022,110000.0,152416.0,Hybrid,Manual,Abu Dhabi,2025-08-20,Individual,Available
+CAR-0090,Toyota,Camry,2023,63500.0,178820.0,Diesel,Automatic,Abu Dhabi,2026-08-19,Dealer,Available
+CAR-0032,Hyundai,Tucson,2016,38000.0,,Petrol,Manual,Dubai,2025-08-17,Dealer,Available
+CAR-0097,Toyota,Corolla,2014,25000.0,64696.0,Diesel,Automatic,Dubai,2025-05-03,Dealer,Available
+CAR-0267,Mercedes-Benz,CLA 250,2025,129000.0,190846.0,Petrol,Automatic,Dubai,2026-06-25,Dealer,Available
+CAR-0248,Nissan,Altima,2019,37500.0,202888.0,Diesel,Automatic,Sharjah,2025-09-27,Dealer,Available
+CAR-0158,Hyundai,Tucson,2018,43500.0,201657.0,Petrol,Automatic,Dubai,2026-08-19,Dealer,Available
+CAR-0941,Toyota,Camry,2021,61000.0,45337.0,Petrol,Automatic,Abu Dhabi,2025-06-30,Individual,Available
+CAR-0559,Toyota,Camry,2013,25500.0,7643.0,Diesel,Manual,Abu Dhabi,2025-09-30,Dealer,Available
+CAR-0236,Toyota,CLA 250,2013,50500.0,46635.0,Diesel,Manual,Ajman,2026-09-20,Individual,Available
+CAR-0394,Honda,Civic,2020,40500.0,116293.0,Petrol,Manual,Sharjah,2026-06-13,Dealer,Available
+CAR-0784,Mercedes-Benz,CLA 250,2014,54000.0,7401.0,Diesel,Manual,Abu Dhabi,2026-08-29,Individual,Available
+CAR-0440,Toyota,Camry,2019,52500.0,137627.0,Petrol,Automatic,Ajman,2025-04-27,Individual,Available
+CAR-0636,Kia,Sportage,,63500.0,170762.0,Petrol,Automatic,Sharjah,2025-03-11,Individual,Available
+CAR-0511,Mercedes-Benz,CLA 250,,51500.0,12861.0,Diesel,Manual,Dubai,2026-06-05,Dealer,Available
+CAR-0555,Mercedes-Benz,CLA 250,2025,127000.0,21552.0,Petrol,Manual,Abu Dhabi,2025-08-26,Individual,Available
+CAR-0526,Nissan,Altima,,29500.0,68080.0,Petrol,Manual,Ajman,2025-06-03,Dealer,Available
+CAR-0135,Toyota,Corolla,2017,32000.0,13030.0,Petrol,Manual,Sharjah,2025-01-24,Individual,Available
+CAR-0116,Honda,Civic,2022,48500.0,135294.0,Petrol,Automatic,Abu Dhabi,2026-07-13,Individual,Available
+CAR-0221,Toyota,Tucson,2019,48000.0,42801.0,Petrol,Manual,Dubai,2026-07-01,Individual,Available
+CAR-0822,Mercedes-Benz,CLA 250,2016,69000.0,200745.0,Diesel,Automatic,Dubai,2025-03-13,Dealer,Available
+CAR-0757,Lexus,ES 300h,2019,94000.0,61362.0,Hybrid,Automatic,Ajman,2025-02-23,Dealer,Available
+CAR-0600,Toyota,Corolla,2021,35000.0,11109.0,Petrol,Manual,Abu Dhabi,2026-03-03,Individual,Available
+CAR-0944,Mercedes-Benz,CLA 250,2022,106000.0,110581.0,Diesel,Manual,Abu Dhabi,2026-09-15,Individual,Available
+CAR-0858,Hyundai,Tucson,2021,56500.0,189735.0,Petrol,Automatic,Abu Dhabi,2025-10-19,Dealer,Available
+CAR-0866,Honda,Civic,2023,54000.0,141664.0,Diesel,Automatic,Dubai,2025-06-12,Dealer,Available
+CAR-0804,Hyundai,Tucson,2016,32000.0,223604.0,Petrol,Manual,Dubai,2026-03-16,Individual,Available
+CAR-0296,Toyota,Camry,2013,32000.0,142186.0,Diesel,Automatic,Ajman,2026-06-29,Dealer,Available
+CAR-0046,Lexus,ES 300h,2025,133500.0,,Hybrid,Manual,Abu Dhabi,2025-04-07,Dealer,Available
+CAR-0779,Hyundai,Tucson,2025,63500.0,142816.0,Petrol,Automatic,Ajman,2025-08-12,Dealer,Available
+CAR-0382,Lexus,ES 300h,2022,108000.0,12475.0,Hybrid,Automatic,Abu Dhabi,2025-03-09,Dealer,Available
+CAR-0170,Nissan,Altima,2016,29500.0,131919.0,Diesel,Manual,Abu Dhabi,2025-11-08,Individual,Available
+CAR-0520,Toyota,Corolla,,34500.0,181153.0,Diesel,Automatic,Sharjah,2026-08-17,Dealer,Available
+CAR-0226,Toyota,Camry,2014,34500.0,82134.0,Petrol,Automatic,Sharjah,2025-12-02,Dealer,Available
+CAR-0120,Toyota,Corolla,2023,45000.0,142479.0,Petrol,Automatic,Sharjah,2025-10-01,Individual,Available
+CAR-0305,Lexus,ES 300h,2012,45500.0,137673.0,Hybrid,Automatic,Ajman,2025-01-11,Individual,Available
+CAR-0591,Hyundai,Tucson,2013,22500.0,195767.0,Diesel,Automatic,Dubai,2026-05-07,Dealer,Available
+CAR-0459,Honda,Civic,2022,43000.0,31265.0,Diesel,Automatic,Abu Dhabi,2025-05-11,Dealer,Available
+CAR-0229,Mercedes-Benz,Corolla,2023,40000.0,151593.0,Petrol,Automatic,Sharjah,2026-05-07,Individual,Available
+CAR-0316,Mercedes-Benz,CLA 250,2025,129500.0,177091.0,Petrol,Manual,Ajman,2026-09-08,Dealer,Available
+CAR-0388,Kia,Sportage,2018,45000.0,10091.0,Diesel,Manual,Sharjah,2026-03-04,Dealer,Available
+CAR-0772,Hyundai,Tucson,2021,57500.0,112727.0,Petrol,Manual,Abu Dhabi,2025-12-28,Dealer,Available
+CAR-0150,Nissan,Altima,2019,37000.0,101767.0,Petrol,Automatic,Sharjah,2026-06-23,Dealer,Available
+CAR-0210,Kia,Sportage,2012,25500.0,187025.0,Petrol,Manual,Sharjah,2025-09-23,Individual,Available
+CAR-0817,Mercedes-Benz,CLA 250,2013,50500.0,181349.0,Petrol,Automatic,Ajman,2026-03-24,Individual,Available
+CAR-0497,Toyota,Corolla,2019,32500.0,,Petrol,Manual,Ajman,2025-06-17,Individual,Available
+CAR-0572,Mercedes-Benz,CLA 250,2025,122000.0,97425.0,Petrol,Automatic,Dubai,2026-01-28,Individual,Available
+CAR-0209,Toyota,Corolla,2024,50000.0,10902.0,Diesel,Automatic,Sharjah,2025-05-13,Dealer,Available
+CAR-0099,Toyota,Camry,2019,47000.0,59867.0,Diesel,Automatic,Sharjah,2025-09-17,Individual,Available
+CAR-0672,Honda,Civic,2018,38000.0,,Diesel,Automatic,Abu Dhabi,2026-04-27,Individual,Available
+CAR-0720,Honda,Civic,2019,39500.0,204644.0,Diesel,Manual,Abu Dhabi,2025-01-21,Individual,Available
+CAR-0523,Kia,Sportage,,58500.0,87110.0,Petrol,Manual,Dubai,2025-10-31,Individual,Available
+CAR-0748,Mercedes-Benz,CLA 250,2019,83000.0,80218.0,Petrol,Manual,Ajman,2025-10-26,Individual,Available
+CAR-0832,Mercedes-Benz,CLA 250,2022,104000.0,18344.0,Petrol,Automatic,Dubai,2025-04-20,Dealer,Available
+CAR-0904,Lexus,ES 300h,2022,105500.0,9506.0,Hybrid,Automatic,Sharjah,2025-01-11,Dealer,Available
+CAR-0357,Nissan,Altima,2023,43500.0,229665.0,Diesel,Automatic,Ajman,2026-04-03,Individual,Available
+CAR-0196,Toyota,Corolla,2022,39500.0,216726.0,Diesel,Manual,Ajman,2025-03-30,Individual,Available
+CAR-0859,Hyundai,Tucson,2013,24500.0,220702.0,Diesel,Automatic,Ajman,2026-07-22,Dealer,Available
+CAR-0744,Toyota,Corolla,2012,16500.0,69288.0,Diesel,Automatic,Abu Dhabi,2026-06-20,Individual,Available
+CAR-0360,Lexus,ES 300h,2013,52500.0,26958.0,Hybrid,Manual,Ajman,2026-07-02,Individual,Available
+CAR-0579,Lexus,ES 300h,2019,91500.0,35455.0,Hybrid,Manual,Abu Dhabi,2025-04-12,Individual,Available
+CAR-0888,Toyota,Camry,2021,57500.0,28702.0,Diesel,Automatic,Ajman,2025-05-25,Individual,Available
+CAR-0587,Mercedes-Benz,CLA 250,2012,41000.0,175396.0,Petrol,Automatic,Sharjah,2025-07-06,Individual,Available
+CAR-0411,Lexus,ES 300h,2025,128500.0,208253.0,Hybrid,Manual,Ajman,2026-05-20,Individual,Available
+CAR-0465,Lexus,ES 300h,2023,118500.0,87774.0,Hybrid,Automatic,Sharjah,2025-05-05,Individual,Available
+CAR-0103,Toyota,Camry,2024,71000.0,172165.0,Diesel,Manual,Ajman,2025-12-14,Individual,Available
+CAR-0133,Kia,Sportage,2020,46500.0,234574.0,Diesel,Manual,Dubai,2025-02-17,Dealer,Available
+CAR-0138,Lexus,ES 300h,2015,67000.0,100028.0,Hybrid,Automatic,Abu Dhabi,2025-10-29,Dealer,Available
+CAR-0887,Kia,Sportage,2025,69000.0,232403.0,Petrol,Manual,Ajman,2026-08-31,Individual,Available
+CAR-0134,Lexus,ES 300h,2022,113500.0,173299.0,Hybrid,Automatic,Dubai,2025-09-10,Individual,Available
+CAR-0560,Hyundai,Tucson,2019,47000.0,167680.0,Petrol,Automatic,Dubai,2025-12-23,Individual,Available
+CAR-0144,Mercedes-Benz,CLA 250,2018,84000.0,121124.0,Petrol,Manual,Abu Dhabi,2025-02-17,Individual,Available
+CAR-0509,Toyota,Camry,2018,46000.0,,Diesel,Manual,Ajman,2025-05-31,Individual,Available
+CAR-0295,Lexus,ES 300h,2023,119000.0,112937.0,Hybrid,Manual,Ajman,2025-11-23,Dealer,Available
+CAR-0260,Toyota,CLA 250,2023,111000.0,174484.0,Petrol,Manual,Abu Dhabi,2025-09-11,Dealer,Available
+CAR-0563,Kia,Sportage,2016,39000.0,9806.0,Diesel,Manual,Ajman,2025-05-06,Dealer,Available
+CAR-0011,Toyota,Camry,2020,58500.0,,Diesel,Automatic,Sharjah,2026-01-31,Dealer,Available
+CAR-0342,Nissan,Altima,2025,57000.0,71652.0,Hybrid,Manual,Abu Dhabi,,Individual,Available
+CAR-0033,Kia,Sportage,2013,22500.0,225658.0,Unknown,Manual,Abu Dhabi,2025-07-29,Individual,Available
+CAR-0615,Kia,Sportage,2015,35500.0,234369.0,Petrol,Automatic,Abu Dhabi,,Individual,Available
+CAR-0203,Kia,Sportage,2015,28500.0,84275.0,Diesel,Manual,Ajman,2025-02-21,Dealer,Available
+CAR-0505,Lexus,ES 300h,2020,98000.0,,Hybrid,Manual,Abu Dhabi,2026-02-06,Dealer,Available
+CAR-0352,Lexus,ES 300h,2019,84500.0,143877.0,Hybrid,Manual,Dubai,2025-08-20,Dealer,Available
+CAR-0803,Mercedes-Benz,CLA 250,2020,90500.0,200615.0,Petrol,Manual,Sharjah,2025-08-06,Dealer,Available
+CAR-0584,Lexus,ES 300h,2014,58000.0,223724.0,Hybrid,Automatic,Sharjah,2025-03-22,Dealer,Available
+CAR-0458,Hyundai,Tucson,2012,22000.0,83699.0,Diesel,Manual,Sharjah,2026-04-19,Dealer,Available
+CAR-0428,Hyundai,Tucson,2016,39500.0,19024.0,Diesel,Manual,Sharjah,2026-04-01,Individual,Available
+CAR-0676,Nissan,Altima,2019,37500.0,,Petrol,Manual,Abu Dhabi,2026-06-23,Individual,Available
+CAR-0212,Hyundai,Tucson,2017,40000.0,177667.0,Diesel,Manual,Sharjah,2026-03-21,Individual,Available
+CAR-0415,Lexus,ES 300h,2022,113500.0,210548.0,Hybrid,Manual,Sharjah,2026-04-18,Individual,Available
+CAR-0582,Mercedes-Benz,CLA 250,2025,129500.0,184503.0,Petrol,Automatic,Ajman,2026-02-22,Individual,Available
+CAR-0207,Toyota,Camry,2024,71500.0,57753.0,Petrol,Automatic,Sharjah,2026-04-30,Individual,Available
+CAR-0643,Honda,Civic,,37000.0,129656.0,Diesel,Manual,Dubai,2025-03-18,Individual,Available
+CAR-0762,Lexus,ES 300h,2012,47000.0,168672.0,Hybrid,Automatic,Ajman,2025-09-02,Individual,Available
+CAR-0680,Toyota,Camry,2019,54500.0,,Diesel,Manual,Sharjah,2026-09-05,Individual,Available
+CAR-0414,Kia,Sportage,2024,62500.0,212943.0,Petrol,Automatic,Dubai,2025-06-24,Individual,Available
+CAR-0387,Toyota,Camry,2019,49500.0,35576.0,Petrol,Automatic,Dubai,2025-07-29,Dealer,Available
+CAR-0371,Lexus,ES 300h,2019,93000.0,171938.0,Hybrid,Automatic,Sharjah,2025-09-12,Individual,Available
+CAR-0535,Toyota,Camry,2022,65000.0,120463.0,Diesel,Manual,Dubai,2025-01-13,Individual,Available
+CAR-0836,Toyota,Corolla,2019,33500.0,217138.0,Diesel,Manual,Abu Dhabi,2026-05-17,Dealer,Available
+CAR-0850,Kia,Sportage,2020,54000.0,144943.0,Petrol,Automatic,Ajman,2025-10-07,Individual,Available
+CAR-0410,Mercedes-Benz,CLA 250,2013,45500.0,30976.0,Petrol,Manual,Ajman,2026-09-20,Dealer,Available
+CAR-0287,Mercedes-Benz,CLA 250,2019,88500.0,11805.0,Petrol,Manual,Abu Dhabi,2026-03-08,Dealer,Available
+CAR-0205,Toyota,Corolla,2013,14000.0,93617.0,Diesel,Manual,Ajman,2026-09-08,Dealer,Available
+CAR-0821,Toyota,Corolla,2023,40500.0,31746.0,Diesel,Automatic,Dubai,2025-02-12,Dealer,Available
+CAR-0252,Nissan,CLA 250,2024,115000.0,135530.0,Diesel,Automatic,Ajman,2025-05-10,Dealer,Available
+CAR-0366,Lexus,ES 300h,2017,73500.0,111362.0,Hybrid,Automatic,Ajman,2026-02-01,Dealer,Available
+CAR-0249,Mercedes-Benz,CLA 250,2019,81500.0,57212.0,Diesel,Automatic,Sharjah,2025-03-11,Individual,Available
+CAR-0070,Nissan,Altima,2015,23000.0,158376.0,Petrol,Manual,Dubai,2026-06-08,Dealer,Available
+CAR-0289,Toyota,Corolla,2023,46500.0,7084.0,Petrol,Manual,Dubai,,Individual,Available
+CAR-0374,Honda,Civic,2017,29000.0,95653.0,Petrol,Manual,Dubai,2025-06-06,Dealer,Available
+CAR-0172,Honda,Civic,2021,43000.0,166236.0,Petrol,Automatic,Sharjah,2025-10-08,Individual,Available
+CAR-0108,Toyota,Camry,2017,42000.0,206919.0,Petrol,Automatic,Sharjah,2025-06-13,Dealer,Available
+CAR-0770,Toyota,Corolla,2024,47000.0,178541.0,Petrol,Automatic,Dubai,2025-01-24,Dealer,Available
+CAR-0890,Toyota,Corolla,2018,31500.0,171084.0,Diesel,Automatic,Sharjah,2025-09-12,Individual,Available
+CAR-0346,Nissan,Altima,2023,45500.0,126015.0,Diesel,Manual,Sharjah,2026-02-06,Dealer,Available
+CAR-0251,Mercedes-Benz,Sportage,2021,59500.0,129642.0,Diesel,Manual,Ajman,2025-10-06,Dealer,Available
+CAR-0157,Honda,Civic,2024,56500.0,190493.0,Diesel,Automatic,Abu Dhabi,2025-01-27,Individual,Available
+CAR-0266,Nissan,Altima,2013,16500.0,57427.0,Diesel,Automatic,Abu Dhabi,2025-09-14,Individual,Available
+CAR-0940,Kia,Sportage,2020,54500.0,215611.0,Diesel,Automatic,Sharjah,2025-03-26,Dealer,Available
+CAR-0083,Hyundai,Tucson,2019,47500.0,196024.0,Petrol,Manual,Ajman,2026-07-23,Dealer,Available
+CAR-0673,Honda,Civic,2020,38500.0,,Petrol,Manual,Ajman,2026-02-18,Dealer,Available
+CAR-0339,Lexus,ES 300h,2024,121000.0,223819.0,Diesel,Automatic,Abu Dhabi,2025-04-02,Individual,Available
+CAR-0721,Nissan,Altima,2024,48500.0,228406.0,Unknown,Manual,Sharjah,2026-07-26,Individual,Available
+CAR-0510,Toyota,Camry,2025,77000.0,85000.0,Petrol,Manual,Ajman,2026-04-18,Dealer,Available
+CAR-0333,Toyota,Camry,2020,59000.0,26555.0,Petrol,Automatic,Ajman,2025-04-10,Individual,Available
+CAR-0431,Nissan,Altima,2014,24500.0,52674.0,Diesel,Manual,Sharjah,,Dealer,Available
+CAR-0499,Honda,Civic,2023,55500.0,85000.0,Petrol,Automatic,Ajman,2025-02-01,Dealer,Available
+CAR-0833,Hyundai,Tucson,2019,51500.0,103154.0,Diesel,Automatic,Abu Dhabi,2026-03-08,Individual,Available
+CAR-0485,Toyota,Corolla,2021,12000.0,131028.0,Petrol,Manual,Abu Dhabi,2025-12-28,Individual,Available
+CAR-0624,Lexus,ES 300h,2019,93000.0,195730.0,Hybrid,Automatic,Abu Dhabi,,Individual,Available
+CAR-0611,Kia,Sportage,2019,48500.0,196139.0,Petrol,Automatic,Abu Dhabi,,Individual,Available
+CAR-0645,Hyundai,Tucson,,17500.0,136625.0,Petrol,Manual,Abu Dhabi,2026-03-14,Individual,Available
+CAR-0544,Hyundai,Tucson,2013,30000.0,171082.0,Petrol,Automatic,Ajman,2025-06-24,Individual,Available
+CAR-0396,Toyota,Camry,2015,38500.0,232736.0,Petrol,Automatic,Sharjah,2026-02-21,Dealer,Available
+CAR-0630,Hyundai,Tucson,2024,67000.0,95605.0,Petrol,Manual,Abu Dhabi,,Individual,Available
+CAR-0023,Toyota,Unknown,2017,39500.0,34249.0,Petrol,Automatic,Sharjah,2026-10-03,Individual,Available
+CAR-0232,Mercedes-Benz,Corolla,2016,20500.0,22415.0,Diesel,Automatic,Dubai,2026-09-02,Dealer,Available
+CAR-0180,Mercedes-Benz,CLA 250,2020,97000.0,58935.0,Petrol,Automatic,Dubai,2025-09-24,Dealer,Available
+CAR-0367,Toyota,Camry,2018,47500.0,215026.0,Petrol,Automatic,Abu Dhabi,2026-02-03,Dealer,Available
+CAR-0409,Toyota,Camry,2023,67500.0,115403.0,Diesel,Manual,Dubai,2026-03-05,Dealer,Available
+CAR-0059,Kia,Sportage,2021,51000.0,19839.0,Unknown,Automatic,Sharjah,2026-03-23,Individual,Available
+CAR-0274,Toyota,Corolla,2018,28000.0,30231.0,Diesel,Automatic,Abu Dhabi,2025-08-30,Dealer,Available
+CAR-0594,Toyota,Camry,2024,74000.0,163742.0,Diesel,Manual,Dubai,2025-04-19,Dealer,Available
+CAR-0943,Toyota,Camry,2020,51000.0,58890.0,Diesel,Manual,Dubai,2026-01-08,Dealer,Available
+CAR-0786,Nissan,Altima,2022,47000.0,24774.0,Petrol,Automatic,Ajman,2025-09-18,Dealer,Available
+CAR-0741,Toyota,Corolla,2013,18000.0,81264.0,Diesel,Automatic,Dubai,2025-09-09,Dealer,Available
+CAR-0143,Nissan,Altima,2022,48500.0,126304.0,Diesel,Automatic,Sharjah,2026-01-27,Dealer,Available
+CAR-0730,Kia,Sportage,2023,59000.0,91209.0,Unknown,Automatic,Sharjah,2026-07-13,Individual,Available
+CAR-0315,Toyota,Corolla,2019,27500.0,65967.0,Petrol,Manual,Ajman,2025-08-28,Dealer,Available
+CAR-0912,Mercedes-Benz,CLA 250,2014,54500.0,203157.0,Petrol,Manual,Ajman,2025-11-23,Dealer,Available
+CAR-0798,Kia,Sportage,2024,63000.0,159712.0,Diesel,Automatic,Sharjah,2026-04-23,Individual,Available
+CAR-0257,Nissan,Camry,2025,71000.0,207161.0,Diesel,Manual,Dubai,2025-06-05,Individual,Available
+CAR-0052,Lexus,ES 300h,2017,71000.0,197825.0,Hybrid,Automatic,Unknown,2026-04-01,Individual,Available
+CAR-0861,Toyota,Corolla,2020,32500.0,27305.0,Diesel,Automatic,Dubai,2025-02-23,Dealer,Available
+CAR-0444,Kia,Sportage,2013,21000.0,133233.0,Petrol,Manual,Ajman,2026-02-15,Individual,Available
+CAR-0244,Toyota,Sportage,2021,57000.0,98862.0,Diesel,Manual,Dubai,2025-05-13,Individual,Available
+CAR-0331,Toyota,Camry,2024,73500.0,201864.0,Petrol,Automatic,Abu Dhabi,2025-05-04,Dealer,Available
+CAR-0713,Honda,Civic,2016,28000.0,55003.0,Petrol,Automatic,Ajman,2026-08-04,Individual,Available
+CAR-0726,Hyundai,Tucson,2014,26500.0,94911.0,Unknown,Manual,Sharjah,2026-03-01,Individual,Available
+CAR-0426,Kia,Sportage,2021,55500.0,42001.0,Petrol,Automatic,Sharjah,2025-01-01,Individual,Available
+CAR-0813,Nissan,Altima,2022,49000.0,174900.0,Petrol,Automatic,Ajman,2025-04-20,Individual,Available
+CAR-0124,Nissan,Altima,2022,41000.0,32493.0,Diesel,Manual,Sharjah,2025-12-17,Dealer,Available
+CAR-0404,Lexus,ES 300h,2018,83000.0,172722.0,Hybrid,Manual,Ajman,2025-09-18,Dealer,Available
+CAR-0084,Lexus,ES 300h,2024,119500.0,226868.0,Hybrid,Automatic,Dubai,2026-01-23,Dealer,Available
+CAR-0325,Hyundai,Tucson,2025,71500.0,43346.0,Petrol,Manual,Ajman,2025-03-21,Individual,Available
+CAR-0644,Lexus,ES 300h,,73500.0,230568.0,Hybrid,Manual,Abu Dhabi,2026-01-05,Dealer,Available
+CAR-0175,Toyota,Corolla,2022,38500.0,56257.0,Petrol,Automatic,Dubai,2025-11-23,Individual,Available
+CAR-0547,Nissan,Altima,2014,18500.0,100939.0,Petrol,Automatic,Abu Dhabi,2025-04-01,Dealer,Available
+CAR-0849,Lexus,ES 300h,2024,118000.0,224066.0,Hybrid,Automatic,Dubai,2025-07-24,Dealer,Available
+CAR-0028,Kia,Sportage,2020,47000.0,31701.0,Diesel,Automatic,Dubai,,Individual,Available
+CAR-0612,Toyota,Corolla,2018,29000.0,96558.0,Diesel,Manual,Ajman,2026-05-13,Dealer,Available
+CAR-0179,Kia,Sportage,2017,41000.0,21506.0,Diesel,Manual,Dubai,2026-07-03,Dealer,Available
+CAR-0718,Lexus,ES 300h,2013,45500.0,13699.0,Hybrid,Manual,Sharjah,2025-03-21,Individual,Available
+CAR-0549,Lexus,ES 300h,2020,92500.0,207135.0,Hybrid,Manual,Sharjah,2026-02-18,Dealer,Available
+CAR-0146,Mercedes-Benz,CLA 250,2019,87500.0,112340.0,Diesel,Automatic,Abu Dhabi,2025-05-17,Individual,Available
+CAR-0455,Kia,Sportage,2020,48500.0,216802.0,Diesel,Manual,Dubai,,Dealer,Available
+CAR-0776,Lexus,ES 300h,2025,132000.0,14864.0,Hybrid,Automatic,Ajman,2026-09-04,Individual,Available
+CAR-0174,Hyundai,Tucson,2022,56000.0,83517.0,Diesel,Automatic,Sharjah,2025-10-08,Individual,Available
+CAR-0829,Honda,Civic,2012,20500.0,188723.0,Petrol,Automatic,Ajman,2026-06-14,Individual,Available
+CAR-0029,Unknown,CLA 250,2017,78000.0,80490.0,Diesel,Manual,Ajman,2025-06-23,Individual,Available
+CAR-0449,Toyota,Camry,2017,42000.0,111841.0,Diesel,Manual,Dubai,2025-01-20,Dealer,Available
+CAR-0519,Honda,Civic,2020,32000.0,172575.0,Diesel,Automatic,Ajman,2026-03-14,Individual,Available
+CAR-0562,Toyota,Corolla,2016,24000.0,209569.0,Diesel,Manual,Sharjah,2025-05-30,Dealer,Available
+CAR-0884,Honda,Civic,2023,53500.0,222766.0,Petrol,Automatic,Dubai,2025-06-03,Dealer,Available
+CAR-0551,Mercedes-Benz,CLA 250,2018,76000.0,232538.0,Diesel,Automatic,Dubai,2025-12-28,Dealer,Available
+CAR-0282,Toyota,Camry,2015,32500.0,230335.0,Petrol,Automatic,Sharjah,2026-08-01,Dealer,Available
+CAR-0082,Toyota,Corolla,2012,11000.0,181663.0,Petrol,Manual,Dubai,2025-01-15,Individual,Available
+CAR-0430,Lexus,ES 300h,2012,43000.0,122611.0,Hybrid,Manual,Ajman,2025-10-21,Dealer,Available
+CAR-0368,Honda,Civic,2025,61000.0,45813.0,Petrol,Automatic,Ajman,2025-08-28,Dealer,Available
+CAR-0077,Honda,Civic,2020,43500.0,199858.0,Diesel,Manual,Ajman,2025-01-28,Individual,Available
+CAR-0194,Nissan,Altima,2012,16500.0,114105.0,Petrol,Manual,Abu Dhabi,2025-09-30,Individual,Available
+CAR-0774,Mercedes-Benz,CLA 250,2022,109000.0,162245.0,Diesel,Manual,Sharjah,2026-03-20,Dealer,Available
+CAR-0716,Mercedes-Benz,CLA 250,2021,94500.0,95737.0,Petrol,Manual,Ajman,2025-07-11,Dealer,Available
+CAR-0605,Nissan,Altima,2023,52500.0,45186.0,Petrol,Automatic,Ajman,,Dealer,Available
+CAR-0277,Mercedes-Benz,CLA 250,2021,103500.0,126194.0,Petrol,Automatic,Sharjah,2025-07-02,Individual,Available
+CAR-0131,Honda,Civic,2012,17500.0,69275.0,Petrol,Manual,Ajman,2025-11-23,Individual,Available
+CAR-0917,Nissan,Altima,2017,34000.0,183507.0,Petrol,Automatic,Sharjah,2025-10-07,Individual,Available
+CAR-0568,Toyota,Camry,2023,66000.0,25841.0,Petrol,Automatic,Sharjah,2025-02-07,Individual,Available
+CAR-0132,Toyota,Corolla,2015,22500.0,137073.0,Petrol,Manual,Ajman,2025-12-16,Dealer,Available
+CAR-0792,Hyundai,Tucson,2023,58500.0,44934.0,Diesel,Manual,Sharjah,2025-11-26,Dealer,Available
+CAR-0854,Lexus,ES 300h,2024,122000.0,223413.0,Hybrid,Manual,Sharjah,2026-06-19,Dealer,Available
+CAR-0451,Hyundai,Tucson,2018,42000.0,78035.0,Petrol,Automatic,Dubai,2025-08-03,Individual,Available
+CAR-0364,Hyundai,Tucson,2021,58000.0,181474.0,Diesel,Manual,Sharjah,2026-09-02,Individual,Available
+CAR-0317,Toyota,Camry,2019,49000.0,195026.0,Diesel,Manual,Dubai,2026-07-22,Individual,Available
+CAR-0898,Toyota,Corolla,2019,29000.0,179359.0,Diesel,Automatic,Ajman,2025-04-04,Individual,Available
+CAR-0852,Lexus,ES 300h,2025,130500.0,40185.0,Hybrid,Automatic,Ajman,2025-01-07,Individual,Available
+CAR-0853,Lexus,ES 300h,2024,122000.0,148824.0,Hybrid,Automatic,Sharjah,2025-01-27,Individual,Available
+CAR-0883,Hyundai,Tucson,2013,22500.0,69825.0,Diesel,Manual,Abu Dhabi,2025-04-12,Dealer,Available
+CAR-0528,Honda,Civic,2020,29500.0,187136.0,Diesel,Manual,Abu Dhabi,2025-12-22,Individual,Available
+CAR-0647,Lexus,ES 300h,,76500.0,200136.0,Hybrid,Manual,Ajman,2026-02-05,Dealer,Available
+CAR-0298,Lexus,ES 300h,2022,109000.0,134397.0,Hybrid,Manual,Ajman,2026-02-20,Dealer,Available
+CAR-0558,Honda,Civic,2018,36000.0,28656.0,Diesel,Automatic,Sharjah,2026-03-17,Dealer,Available
+CAR-0524,Nissan,Altima,2020,48000.0,83992.0,Diesel,Automatic,Dubai,2025-06-22,Individual,Available
+CAR-0764,Kia,Sportage,2019,44000.0,41227.0,Petrol,Manual,Dubai,2026-01-23,Individual,Available
+CAR-0152,Hyundai,Tucson,2019,48000.0,168986.0,Petrol,Manual,Abu Dhabi,2025-01-12,Individual,Available
+CAR-0390,Kia,Sportage,2021,52000.0,126122.0,Petrol,Automatic,Abu Dhabi,2025-01-24,Dealer,Available
+CAR-0164,Mercedes-Benz,CLA 250,2023,114000.0,93148.0,Petrol,Manual,Sharjah,2026-02-21,Dealer,Available
+CAR-0181,Lexus,ES 300h,2023,112500.0,135700.0,Hybrid,Automatic,Abu Dhabi,2026-07-27,Individual,Available
+CAR-0334,Honda,Civic,2023,46500.0,163684.0,Petrol,Automatic,Ajman,2025-01-11,Individual,Available
+CAR-0313,Mercedes-Benz,CLA 250,2022,108500.0,62867.0,Petrol,Automatic,Abu Dhabi,2025-05-07,Dealer,Available
+CAR-0336,Lexus,ES 300h,2012,37500.0,172367.0,Diesel,Manual,Abu Dhabi,2026-01-22,Dealer,Available
+CAR-0233,Hyundai,ES 300h,2013,46000.0,102764.0,Hybrid,Manual,Abu Dhabi,2026-06-16,Dealer,Available
+CAR-0213,Lexus,ES 300h,2025,126000.0,215152.0,Hybrid,Automatic,Dubai,2025-12-31,Individual,Available
+CAR-0361,Nissan,Altima,2018,31000.0,173220.0,Diesel,Automatic,Dubai,2025-06-19,Individual,Available
+CAR-0111,Toyota,Corolla,2025,52000.0,55761.0,Diesel,Automatic,Abu Dhabi,2025-06-06,Individual,Available
+CAR-0025,Kia,Sportage,2019,46500.0,,Diesel,Automatic,Dubai,2025-05-07,Individual,Available
+CAR-0399,Kia,Sportage,2012,18500.0,164802.0,Petrol,Manual,Sharjah,,Individual,Available
+CAR-0184,Toyota,Camry,2018,45500.0,195863.0,Diesel,Manual,Abu Dhabi,2026-08-17,Dealer,Available
+CAR-0019,Lexus,ES 300h,2023,113000.0,120580.0,Unknown,Automatic,Abu Dhabi,2025-05-07,Individual,Available
+CAR-0098,Lexus,ES 300h,2025,128000.0,186347.0,Hybrid,Automatic,Abu Dhabi,2025-06-23,Individual,Available
+CAR-0065,Honda,Civic,2021,40500.0,202165.0,Diesel,Automatic,Abu Dhabi,2025-12-07,Individual,Available
+CAR-0533,Nissan,Altima,2024,52000.0,208072.0,Diesel,Manual,Dubai,2025-12-06,Dealer,Available
+CAR-0830,Hyundai,Tucson,2021,57000.0,113919.0,Diesel,Manual,Ajman,2026-02-24,Individual,Available
+CAR-0642,Nissan,Altima,,25500.0,106152.0,Diesel,Manual,Abu Dhabi,,Individual,Available
+CAR-0351,Kia,Sportage,2020,54000.0,63781.0,Petrol,Automatic,Dubai,2025-07-16,Individual,Available
+CAR-0307,Kia,Sportage,2018,48000.0,50328.0,Diesel,Manual,Ajman,2025-05-22,Individual,Available
+CAR-0946,Toyota,Camry,2014,34500.0,158389.0,Petrol,Manual,Dubai,,Dealer,Available
+CAR-0044,Mercedes-Benz,CLA 250,2018,75500.0,33308.0,Petrol,Automatic,Unknown,2025-12-15,Dealer,Available
+CAR-0008,Unknown,Sportage,2024,66000.0,74288.0,Petrol,Manual,Abu Dhabi,2025-07-20,Individual,Available
+CAR-0588,Toyota,Corolla,2014,25000.0,38325.0,Petrol,Manual,Sharjah,2025-03-01,Dealer,Available
+CAR-0902,Kia,Sportage,2023,63000.0,90331.0,Diesel,Automatic,Ajman,2026-02-27,Dealer,Available
+CAR-0454,Hyundai,Tucson,2013,20500.0,30451.0,Petrol,Manual,Sharjah,2026-06-28,Dealer,Available
+CAR-0329,Honda,Civic,2014,24500.0,26605.0,Petrol,Manual,Dubai,2026-01-24,Dealer,Available
+CAR-0130,Lexus,ES 300h,2016,67000.0,164556.0,Hybrid,Manual,Dubai,2025-08-14,Individual,Available
+CAR-0309,Lexus,ES 300h,2025,131500.0,162287.0,Hybrid,Manual,Dubai,2025-05-26,Individual,Available
+CAR-0191,Toyota,Camry,2013,28000.0,184803.0,Petrol,Manual,Dubai,2026-07-15,Dealer,Available
+CAR-0773,Lexus,ES 300h,2016,70000.0,115420.0,Hybrid,Automatic,Ajman,2026-02-24,Individual,Available
+CAR-0815,Toyota,Corolla,2017,27000.0,21456.0,Diesel,Automatic,Ajman,2026-04-28,Individual,Available
+CAR-0350,Toyota,Camry,2019,48000.0,58067.0,Petrol,Manual,Abu Dhabi,2026-02-17,Individual,Available
+CAR-0717,Honda,Civic,2022,49000.0,130778.0,Diesel,Automatic,Dubai,2026-09-16,Individual,Available
+CAR-0121,Hyundai,Tucson,2023,62500.0,205631.0,Petrol,Manual,Dubai,2025-12-22,Dealer,Available
+CAR-0432,Kia,Sportage,2013,30000.0,139484.0,Petrol,Automatic,Ajman,2026-01-14,Dealer,Available
+CAR-0253,Toyota,CLA 250,2022,102500.0,223494.0,Diesel,Manual,Dubai,2026-06-14,Dealer,Available
+CAR-0542,Mercedes-Benz,CLA 250,2021,103000.0,59181.0,Petrol,Automatic,Abu Dhabi,2025-09-10,Dealer,Available
+CAR-0397,Kia,Sportage,2018,41000.0,214101.0,Petrol,Automatic,Sharjah,2025-12-04,Dealer,Available
+CAR-0039,Nissan,Altima,2019,41500.0,,Petrol,Manual,Dubai,2025-08-10,Dealer,Available
+CAR-0110,Toyota,Camry,2014,33000.0,98599.0,Petrol,Automatic,Abu Dhabi,2026-07-18,Dealer,Available
+CAR-0068,Nissan,Altima,2015,28000.0,217325.0,Diesel,Manual,Abu Dhabi,2026-07-15,Dealer,Available
+CAR-0916,Kia,Sportage,2020,53500.0,112254.0,Diesel,Automatic,Ajman,2025-04-21,Dealer,Available
+CAR-0276,Kia,Sportage,2022,58000.0,73135.0,Diesel,Manual,Sharjah,,Dealer,Available
+CAR-0078,Nissan,Altima,2016,31500.0,219593.0,Diesel,Automatic,Abu Dhabi,2025-06-12,Dealer,Available
+CAR-0268,Lexus,ES 300h,2025,132500.0,87992.0,Hybrid,Automatic,Sharjah,2026-03-02,Individual,Available
+CAR-0102,Toyota,Camry,2016,41500.0,163384.0,Diesel,Manual,Dubai,2025-03-15,Individual,Available
+CAR-0302,Toyota,Corolla,2018,29500.0,48267.0,Petrol,Automatic,Dubai,2025-09-08,Dealer,Available
+CAR-0816,Mercedes-Benz,CLA 250,2018,79500.0,44989.0,Diesel,Automatic,Ajman,2026-08-02,Individual,Available
+CAR-0141,Mercedes-Benz,CLA 250,2012,44500.0,183355.0,Petrol,Manual,Ajman,2025-07-30,Dealer,Available
+CAR-0491,Mercedes-Benz,CLA 250,2012,45500.0,,Petrol,Manual,Sharjah,2025-05-15,Individual,Available
+CAR-0778,Toyota,Corolla,2022,45000.0,69958.0,Petrol,Automatic,Abu Dhabi,2026-08-07,Dealer,Available
+CAR-0553,Nissan,Altima,2018,33000.0,23546.0,Diesel,Automatic,Ajman,2025-07-12,Dealer,Available
+CAR-0050,Toyota,Corolla,2016,25500.0,,Petrol,Manual,Ajman,2025-04-20,Dealer,Available
+CAR-0758,Lexus,ES 300h,2013,53000.0,94841.0,Hybrid,Automatic,Ajman,2025-07-01,Dealer,Available
+CAR-0493,Lexus,ES 300h,2023,112500.0,,Hybrid,Manual,Sharjah,2026-09-18,Dealer,Available
+CAR-0896,Toyota,Camry,2020,54500.0,126139.0,Diesel,Manual,Sharjah,2026-06-09,Dealer,Available
+CAR-0066,Toyota,Corolla,2017,31500.0,173459.0,Petrol,Automatic,Dubai,2025-11-20,Dealer,Available
+CAR-0886,Lexus,ES 300h,2023,119000.0,157031.0,Hybrid,Manual,Sharjah,2026-04-28,Dealer,Available
+CAR-0219,Toyota,Corolla,2022,42500.0,217634.0,Diesel,Automatic,Sharjah,2025-07-28,Dealer,Available
+CAR-0641,Hyundai,Tucson,,48000.0,190135.0,Diesel,Manual,Sharjah,2026-02-26,Dealer,Available
+CAR-0408,Toyota,Camry,2020,49500.0,113847.0,Diesel,Automatic,Ajman,2026-03-20,Individual,Available
+CAR-0745,Toyota,Corolla,2012,13000.0,67718.0,Diesel,Automatic,Ajman,2025-11-29,Dealer,Available
+CAR-0321,Kia,Sportage,2020,49000.0,36433.0,Petrol,Automatic,Ajman,2025-04-24,Dealer,Available
+CAR-0386,Toyota,Camry,2012,23000.0,121259.0,Petrol,Automatic,Sharjah,2026-09-04,Individual,Available
+CAR-0198,Lexus,ES 300h,2018,79000.0,60046.0,Hybrid,Manual,Ajman,2026-08-21,Dealer,Available
+CAR-0417,Toyota,Corolla,2020,34500.0,95193.0,Petrol,Automatic,Abu Dhabi,2026-06-05,Dealer,Available
+CAR-0140,Toyota,Corolla,2015,25500.0,11168.0,Petrol,Automatic,Dubai,2026-02-09,Individual,Available
+CAR-0405,Honda,Civic,2019,35500.0,218116.0,Diesel,Automatic,Dubai,2026-05-30,Individual,Available
+CAR-0590,Honda,Civic,2024,53000.0,153691.0,Diesel,Automatic,Dubai,2025-11-26,Individual,Available
+CAR-0508,Toyota,Corolla,2023,38500.0,,Diesel,Manual,Sharjah,2025-01-10,Individual,Available
+CAR-0450,Honda,Civic,2013,17500.0,123863.0,Diesel,Manual,Dubai,2025-08-24,Dealer,Available
+CAR-0420,Kia,Sportage,2020,54000.0,85216.0,Diesel,Automatic,Dubai,2025-08-27,Individual,Available
+CAR-0785,Hyundai,Tucson,2020,48000.0,28459.0,Diesel,Manual,Ajman,2025-01-18,Individual,Available
+CAR-0439,Toyota,Camry,2016,43000.0,209306.0,Diesel,Manual,Ajman,2026-05-19,Individual,Available
+CAR-0873,Toyota,Camry,2015,37500.0,6176.0,Diesel,Manual,Ajman,2025-08-18,Dealer,Available
+CAR-0469,Toyota,Camry,2014,36500.0,107125.0,Diesel,Automatic,Ajman,2025-07-15,Dealer,Available
+CAR-0781,Toyota,Corolla,2025,50500.0,193158.0,Petrol,Automatic,Dubai,2025-04-22,Dealer,Available
+CAR-0796,Toyota,Corolla,2014,18000.0,145232.0,Petrol,Automatic,Ajman,2026-08-30,Dealer,Available
+CAR-0616,Hyundai,Tucson,2015,32000.0,68927.0,Diesel,Manual,Abu Dhabi,,Dealer,Available
+CAR-0330,Toyota,Corolla,2019,36500.0,63652.0,Petrol,Manual,Abu Dhabi,2026-06-30,Individual,Available
+CAR-0935,Toyota,Corolla,2013,14000.0,187799.0,Diesel,Automatic,Abu Dhabi,,Dealer,Available
+CAR-0272,Honda,Civic,2020,38500.0,25201.0,Petrol,Manual,Abu Dhabi,2025-09-09,Individual,Available
+CAR-0149,Toyota,Corolla,2022,37000.0,168051.0,Petrol,Manual,Dubai,2025-09-10,Dealer,Available
+CAR-0795,Nissan,Altima,2025,50500.0,70732.0,Diesel,Manual,Abu Dhabi,2025-11-30,Dealer,Available
+CAR-0889,Toyota,Camry,2018,43500.0,199745.0,Diesel,Manual,Dubai,2025-04-05,Dealer,Available
+CAR-0240,Nissan,ES 300h,2019,91000.0,76540.0,Hybrid,Manual,Ajman,2026-08-20,Dealer,Available
+CAR-0178,Lexus,ES 300h,2012,47000.0,11633.0,Hybrid,Automatic,Abu Dhabi,2025-07-16,Dealer,Available
+CAR-0809,Hyundai,Tucson,2012,23000.0,163797.0,Petrol,Manual,Abu Dhabi,2025-07-20,Dealer,Available
+CAR-0034,Hyundai,Tucson,2020,49500.0,68536.0,Diesel,Automatic,Unknown,2026-04-02,Individual,Available
+CAR-0094,Kia,Sportage,2014,29000.0,175133.0,Diesel,Automatic,Ajman,2025-05-18,Dealer,Available
+CAR-0290,Kia,Sportage,2021,52500.0,197665.0,Petrol,Manual,Sharjah,2025-01-12,Individual,Available
+CAR-0538,Lexus,ES 300h,2012,39500.0,40904.0,Hybrid,Automatic,Dubai,2026-04-05,Dealer,Available
+CAR-0923,Hyundai,Tucson,2020,48000.0,208332.0,Diesel,Manual,Sharjah,2025-10-09,Individual,Available
+CAR-0618,Toyota,Camry,2025,72500.0,35077.0,Petrol,Manual,Ajman,,Dealer,Available
+CAR-0948,Lexus,ES 300h,2017,73000.0,84635.0,Hybrid,Manual,Sharjah,2025-07-21,Dealer,Available
+CAR-0026,Nissan,Altima,2025,51500.0,16059.0,Unknown,Automatic,Ajman,2026-03-18,Dealer,Available
+CAR-0271,Toyota,Corolla,2024,46000.0,23006.0,Petrol,Automatic,Sharjah,2025-02-20,Individual,Available
+CAR-0109,Toyota,Corolla,2022,45000.0,14839.0,Petrol,Automatic,Abu Dhabi,2025-03-17,Dealer,Available
+CAR-0567,Nissan,Altima,2021,40500.0,25070.0,Diesel,Manual,Dubai,2026-05-06,Dealer,Available
+CAR-0561,Toyota,Corolla,2013,13500.0,121055.0,Petrol,Manual,Ajman,2026-03-05,Dealer,Available
+CAR-0412,Hyundai,Tucson,2019,46500.0,46544.0,Petrol,Automatic,Abu Dhabi,2025-08-27,Dealer,Available
+CAR-0187,Honda,Civic,2023,54500.0,172517.0,Diesel,Manual,Ajman,2026-05-27,Individual,Available
+CAR-0042,Nissan,Altima,2025,56000.0,,Petrol,Manual,Sharjah,2025-09-26,Individual,Available
+CAR-0876,Toyota,Camry,2024,72500.0,112210.0,Diesel,Manual,Abu Dhabi,2025-09-03,Individual,Available
+CAR-0231,Mercedes-Benz,Tucson,2016,35000.0,165059.0,Petrol,Automatic,Sharjah,2026-09-13,Individual,Available
+CAR-0021,Nissan,Altima,2019,39000.0,112629.0,Diesel,Manual,Ajman,,Individual,Available
+CAR-0074,Toyota,Corolla,2025,49000.0,149709.0,Petrol,Manual,Abu Dhabi,2025-01-29,Dealer,Available
+CAR-0200,Mercedes-Benz,CLA 250,2025,129500.0,214179.0,Diesel,Automatic,Dubai,2026-03-16,Dealer,Available
+CAR-0467,Nissan,Altima,2017,31000.0,166922.0,Diesel,Automatic,Dubai,2025-02-02,Individual,Available
+CAR-0828,Nissan,Altima,2021,39500.0,32323.0,Diesel,Automatic,Sharjah,2025-10-04,Dealer,Available
+CAR-0521,Mercedes-Benz,CLA 250,,120500.0,231334.0,Petrol,Manual,Sharjah,2025-09-13,Dealer,Available
+CAR-0312,Lexus,ES 300h,2015,65000.0,78918.0,Hybrid,Manual,Dubai,2025-05-25,Dealer,Available
+CAR-0327,Nissan,Altima,2016,27000.0,13679.0,Petrol,Automatic,Dubai,2026-09-04,Dealer,Available
+CAR-0419,Hyundai,Tucson,2013,23500.0,229582.0,Diesel,Automatic,Dubai,2026-09-02,Dealer,Available
+CAR-0337,Honda,Civic,2016,28000.0,190583.0,Diesel,Automatic,Sharjah,2025-02-05,Individual,Available
+CAR-0777,Toyota,Camry,2014,26500.0,61318.0,Diesel,Automatic,Ajman,2025-07-15,Individual,Available
+CAR-0185,Toyota,Corolla,2012,15000.0,177183.0,Petrol,Automatic,Dubai,2026-02-21,Individual,Available
+CAR-0597,Toyota,Corolla,2021,41500.0,82649.0,Diesel,Manual,Ajman,2026-01-19,Dealer,Available
+CAR-0060,Honda,Civic,2024,54500.0,48995.0,Petrol,Manual,Unknown,2025-10-05,Dealer,Available
+CAR-0104,Hyundai,Tucson,2025,63000.0,19848.0,Diesel,Manual,Ajman,2025-12-08,Dealer,Available
+CAR-0950,Hyundai,Tucson,2023,57000.0,109672.0,Diesel,Automatic,Sharjah,2026-08-22,Individual,Available
+CAR-0438,Kia,Sportage,2015,35500.0,183347.0,Diesel,Manual,Sharjah,2026-09-03,Dealer,Available
+CAR-0608,Honda,Civic,2014,20000.0,214187.0,Diesel,Manual,Ajman,,Individual,Available
+CAR-0490,Hyundai,Tucson,2012,12000.0,129785.0,Petrol,Automatic,Abu Dhabi,2025-09-24,Dealer,Available
+CAR-0918,Hyundai,Tucson,2024,60500.0,23909.0,Petrol,Automatic,Ajman,2026-03-06,Dealer,Available
+CAR-0154,Nissan,Altima,2015,23000.0,59263.0,Diesel,Automatic,Ajman,2025-07-11,Dealer,Available
+CAR-0147,Toyota,Camry,2022,63000.0,128139.0,Diesel,Automatic,Ajman,2026-02-07,Dealer,Available
+CAR-0936,Toyota,Camry,2018,49500.0,20014.0,Diesel,Manual,Sharjah,2025-05-09,Dealer,Available
+CAR-0320,Kia,Sportage,2019,45000.0,136621.0,Petrol,Automatic,Sharjah,2026-04-08,Individual,Available
+CAR-0176,Nissan,Altima,2021,41000.0,92086.0,Diesel,Automatic,Abu Dhabi,2026-01-25,Dealer,Available
+CAR-0754,Nissan,Altima,2012,19000.0,91239.0,Petrol,Manual,Abu Dhabi,2025-03-10,Individual,Available
+CAR-0530,Hyundai,Tucson,,31500.0,106249.0,Petrol,Manual,Dubai,2026-05-08,Dealer,Available
+CAR-0294,Lexus,ES 300h,2021,103500.0,128057.0,Hybrid,Automatic,Sharjah,2026-03-20,Individual,Available
+CAR-0265,Kia,Sportage,2020,50000.0,151055.0,Diesel,Automatic,Sharjah,2025-03-11,Individual,Available
+CAR-0384,Nissan,Altima,2014,21000.0,110962.0,Petrol,Automatic,Abu Dhabi,2025-11-17,Individual,Available
+CAR-0598,Mercedes-Benz,CLA 250,2024,114000.0,86677.0,Diesel,Manual,Abu Dhabi,2026-02-22,Dealer,Available
+CAR-0462,Toyota,Corolla,2019,35000.0,64520.0,Petrol,Automatic,Dubai,2026-01-13,Dealer,Available
+CAR-0335,Toyota,Camry,2016,36500.0,233081.0,Hybrid,Manual,Sharjah,2025-01-17,Dealer,Available
+CAR-0768,Lexus,ES 300h,2025,126000.0,67730.0,Hybrid,Manual,Dubai,2025-01-16,Individual,Available
+CAR-0243,Mercedes-Benz,Camry,2016,36000.0,143531.0,Diesel,Manual,Abu Dhabi,2025-06-13,Dealer,Available
+CAR-0855,Kia,Sportage,2022,59000.0,228201.0,Diesel,Automatic,Dubai,2026-03-23,Dealer,Available
+CAR-0649,Nissan,Altima,,34000.0,83952.0,Petrol,Automatic,Abu Dhabi,2025-11-06,Individual,Available
+CAR-0747,Lexus,ES 300h,2022,114000.0,226104.0,Hybrid,Manual,Sharjah,2025-12-16,Dealer,Available
+CAR-0860,Nissan,Altima,2013,16000.0,9754.0,Diesel,Automatic,Dubai,2025-11-09,Individual,Available
+CAR-0857,Kia,Sportage,2013,30500.0,211718.0,Petrol,Manual,Dubai,2026-05-08,Dealer,Available
+CAR-0080,Nissan,Altima,2015,22000.0,74094.0,Petrol,Automatic,Sharjah,2025-08-17,Individual,Available
+CAR-0284,Nissan,Altima,2024,46000.0,35785.0,Diesel,Automatic,Dubai,2025-04-28,Individual,Available
+CAR-0139,Kia,Sportage,2015,32000.0,158103.0,Petrol,Manual,Abu Dhabi,2025-04-02,Dealer,Available
+CAR-0565,Kia,Sportage,2025,65000.0,153733.0,Petrol,Automatic,Abu Dhabi,2025-09-16,Dealer,Available
+CAR-0377,Lexus,ES 300h,2024,122000.0,32024.0,Hybrid,Manual,Dubai,2025-10-12,Dealer,Available
+CAR-0522,Toyota,Camry,2020,32500.0,159232.0,Diesel,Automatic,Abu Dhabi,2026-04-20,Dealer,Available
+CAR-0826,Toyota,Camry,2024,70000.0,203389.0,Diesel,Manual,Abu Dhabi,2025-05-31,Dealer,Available
+CAR-0100,Toyota,Corolla,2017,24500.0,186088.0,Diesel,Manual,Dubai,2025-04-01,Dealer,Available
+CAR-0193,Nissan,Altima,2022,40500.0,141501.0,Petrol,Manual,Dubai,2026-09-20,Dealer,Available
+CAR-0363,Kia,Sportage,2013,26000.0,182847.0,Petrol,Manual,Ajman,2025-06-08,Dealer,Available
+CAR-0539,Honda,Civic,2016,29000.0,163903.0,Petrol,Manual,Dubai,2025-03-15,Individual,Available
+CAR-0171,Toyota,Camry,2025,77500.0,207466.0,Petrol,Manual,Sharjah,2025-08-27,Individual,Available
+CAR-0930,Nissan,Altima,2015,27000.0,37604.0,Petrol,Automatic,Ajman,2026-05-20,Individual,Available
+CAR-0537,Honda,Civic,2015,28000.0,214937.0,Petrol,Manual,Sharjah,2025-08-31,Dealer,Available
+CAR-0570,Honda,Civic,2013,25000.0,56759.0,Petrol,Manual,Sharjah,2026-06-19,Individual,Available
+CAR-0037,Lexus,Unknown,2013,50500.0,220700.0,Hybrid,Manual,Ajman,2026-03-18,Individual,Available
+CAR-0550,Hyundai,Tucson,2019,44500.0,200955.0,Diesel,Manual,Dubai,2025-01-14,Individual,Available
+CAR-0242,Mercedes-Benz,ES 300h,2018,78000.0,90194.0,Hybrid,Manual,Dubai,2025-09-02,Individual,Available
+CAR-0801,Toyota,Corolla,2022,35500.0,128240.0,Petrol,Automatic,Ajman,2025-08-29,Individual,Available
+CAR-0891,Honda,Civic,2021,43500.0,43418.0,Diesel,Manual,Abu Dhabi,2025-10-25,Dealer,Available
+CAR-0788,Hyundai,Tucson,2018,42000.0,86793.0,Petrol,Automatic,Abu Dhabi,2025-10-15,Dealer,Available
+CAR-0908,Toyota,Camry,2018,42000.0,204444.0,Petrol,Automatic,Ajman,2025-03-07,Individual,Available
+CAR-0871,Hyundai,Tucson,2020,45000.0,81231.0,Diesel,Automatic,Abu Dhabi,2026-01-17,Dealer,Available
+CAR-0446,Nissan,Altima,2013,16000.0,73255.0,Diesel,Manual,Ajman,2025-10-27,Dealer,Available
+CAR-0548,Nissan,Altima,2012,14000.0,208599.0,Petrol,Manual,Dubai,2026-02-03,Dealer,Available
+CAR-0728,Mercedes-Benz,CLA 250,2017,77000.0,113095.0,Unknown,Manual,Sharjah,2025-05-31,Dealer,Available
+CAR-0169,Toyota,Corolla,2014,19500.0,19808.0,Diesel,Automatic,Abu Dhabi,2026-03-24,Individual,Available
+CAR-0742,Mercedes-Benz,CLA 250,2024,119000.0,224198.0,Diesel,Manual,Dubai,2025-08-19,Dealer,Available
+CAR-0392,Toyota,Camry,2024,67000.0,35187.0,Diesel,Manual,Ajman,2026-06-03,Individual,Available
+CAR-0557,Kia,Sportage,2014,28500.0,66456.0,Diesel,Automatic,Dubai,2026-01-08,Dealer,Available
+CAR-0167,Kia,Sportage,2024,65000.0,163842.0,Petrol,Automatic,Sharjah,2026-02-05,Individual,Available
+CAR-0903,Hyundai,Tucson,2015,28000.0,7488.0,Diesel,Manual,Sharjah,2026-03-18,Individual,Available
+CAR-0362,Toyota,Camry,2020,56500.0,61499.0,Petrol,Automatic,Abu Dhabi,2026-03-22,Dealer,Available
+CAR-0503,Kia,Sportage,2013,23000.0,,Diesel,Manual,Abu Dhabi,2025-07-22,Individual,Available
+CAR-0122,Toyota,Camry,2013,27500.0,141409.0,Petrol,Manual,Sharjah,2025-02-15,Dealer,Available
+CAR-0498,Kia,Sportage,2020,49000.0,,Diesel,Automatic,Dubai,2026-06-19,Dealer,Available
+CAR-0543,Toyota,Camry,2018,42000.0,120629.0,Petrol,Manual,Sharjah,2026-03-15,Individual,Available
+CAR-0614,Mercedes-Benz,CLA 250,2023,114000.0,79256.0,Diesel,Automatic,Abu Dhabi,,Dealer,Available
+CAR-0839,Kia,Sportage,2021,55500.0,51173.0,Petrol,Manual,Abu Dhabi,2025-05-19,Dealer,Available
+CAR-0119,Nissan,Altima,2024,51500.0,217524.0,Petrol,Automatic,Abu Dhabi,2026-07-07,Dealer,Available
+CAR-0369,Lexus,ES 300h,2013,45000.0,67083.0,Hybrid,Automatic,Dubai,2026-07-05,Individual,Available
+CAR-0746,Hyundai,Tucson,2021,57000.0,39464.0,Petrol,Manual,Sharjah,2026-03-26,Individual,Available
+CAR-0344,Honda,Civic,2025,53000.0,173877.0,Petrol,Automatic,Abu Dhabi,,Dealer,Available
+CAR-0666,Kia,Sportage,2025,64500.0,,Diesel,Manual,Abu Dhabi,2026-01-13,Individual,Available
+CAR-0054,Lexus,ES 300h,2019,92000.0,,Hybrid,Automatic,Dubai,2025-01-16,Individual,Available
+CAR-0667,Honda,Civic,2018,34000.0,,Petrol,Manual,Ajman,2025-10-08,Dealer,Available
+CAR-0254,Mercedes-Benz,Tucson,2021,57000.0,75286.0,Petrol,Manual,Ajman,2025-03-03,Dealer,Available
+CAR-0263,Toyota,Camry,2015,31500.0,194323.0,Petrol,Automatic,Sharjah,2026-01-03,Dealer,Available
+CAR-0753,Mercedes-Benz,CLA 250,2016,63000.0,156401.0,Diesel,Automatic,Sharjah,2026-05-14,Dealer,Available
+CAR-0043,Toyota,Corolla,2023,46500.0,17726.0,Unknown,Automatic,Dubai,2025-06-17,Dealer,Available
+CAR-0514,Toyota,Corolla,,33000.0,128209.0,Petrol,Manual,Sharjah,2026-02-13,Dealer,Available
+CAR-0136,Lexus,ES 300h,2021,104500.0,28227.0,Hybrid,Automatic,Dubai,,Dealer,Available
+CAR-0012,Honda,Civic,2024,48500.0,89365.0,Unknown,Manual,Ajman,,Individual,Available
+CAR-0275,Hyundai,Tucson,2019,46000.0,57093.0,Petrol,Automatic,Dubai,2025-06-15,Individual,Available
+CAR-0929,Hyundai,Tucson,2024,59500.0,109032.0,Petrol,Automatic,Sharjah,2026-08-24,Dealer,Available
+CAR-0767,Mercedes-Benz,CLA 250,2023,109000.0,73212.0,Petrol,Manual,Abu Dhabi,2026-02-07,Individual,Available
+CAR-0215,Kia,Sportage,2014,27500.0,159303.0,Petrol,Automatic,Dubai,2025-03-06,Dealer,Available
+CAR-0823,Hyundai,Tucson,2021,57500.0,25000.0,Diesel,Manual,Ajman,2025-09-23,Dealer,Available
+CAR-0391,Lexus,ES 300h,2023,118500.0,56084.0,Hybrid,Automatic,Abu Dhabi,2025-10-21,Dealer,Available
+CAR-0101,Hyundai,Tucson,2023,61500.0,32242.0,Diesel,Automatic,Dubai,2025-07-18,Dealer,Available
+CAR-0441,Honda,Civic,2024,52500.0,158324.0,Petrol,Manual,Sharjah,2026-05-23,Dealer,Available
+CAR-0531,Nissan,Altima,2012,22500.0,132089.0,Petrol,Automatic,Sharjah,2025-12-02,Dealer,Available
+CAR-0255,Toyota,Camry,2017,47000.0,101287.0,Diesel,Automatic,Ajman,2026-01-25,Individual,Available
+CAR-0285,Mercedes-Benz,CLA 250,2016,63500.0,78546.0,Diesel,Manual,Abu Dhabi,2025-08-16,Individual,Available
+CAR-0247,Nissan,Altima,2021,45000.0,227977.0,Petrol,Manual,Dubai,2025-05-30,Dealer,Available
+CAR-0489,Hyundai,Tucson,2020,12000.0,135818.0,Petrol,Manual,Dubai,2026-05-05,Dealer,Available
+CAR-0442,Mercedes-Benz,CLA 250,2012,40500.0,40037.0,Petrol,Manual,Ajman,2026-01-17,Individual,Available
+CAR-0927,Honda,Civic,2014,26000.0,61395.0,Petrol,Manual,Sharjah,2026-02-27,Dealer,Available
+CAR-0617,Toyota,Camry,2024,72000.0,227619.0,Diesel,Manual,Dubai,2026-05-13,Dealer,Available
+CAR-0668,Mercedes-Benz,CLA 250,2019,90000.0,,Petrol,Automatic,Dubai,2026-05-25,Individual,Available
+CAR-0402,Nissan,Altima,2025,58000.0,133649.0,Petrol,Manual,Sharjah,2026-03-26,Individual,Available
+CAR-0719,Toyota,Camry,2018,42500.0,6695.0,Petrol,Automatic,Dubai,2025-07-28,Dealer,Sold
+CAR-0081,Toyota,Corolla,2013,15500.0,150408.0,Petrol,Manual,Abu Dhabi,2026-04-04,Dealer,Available
+CAR-0751,Toyota,Camry,2015,33000.0,109174.0,Petrol,Manual,Abu Dhabi,2026-06-16,Individual,Available
+CAR-0909,Lexus,ES 300h,2020,95000.0,81987.0,Hybrid,Manual,Dubai,2026-03-25,Dealer,Available
+CAR-0793,Lexus,ES 300h,2013,49000.0,11300.0,Hybrid,Manual,Dubai,2025-04-15,Individual,Available
+CAR-0629,Hyundai,Tucson,2021,55500.0,162171.0,Diesel,Automatic,Abu Dhabi,,Dealer,Available
+CAR-0834,Honda,Civic,2012,15500.0,6599.0,Petrol,Manual,Sharjah,2025-06-03,Dealer,Available
+CAR-0381,Kia,Sportage,2022,55000.0,211070.0,Petrol,Manual,Sharjah,2026-06-29,Dealer,Available
+CAR-0564,Honda,Civic,2022,44500.0,231511.0,Diesel,Automatic,Ajman,2026-09-17,Individual,Available
+CAR-0370,Mercedes-Benz,CLA 250,2014,53000.0,50986.0,Petrol,Manual,Sharjah,2026-05-08,Dealer,Available
+CAR-0142,Nissan,Altima,2021,45000.0,30466.0,Petrol,Automatic,Ajman,2026-01-27,Dealer,Available
+CAR-0900,Toyota,Camry,2018,43500.0,133749.0,Petrol,Automatic,Sharjah,2025-07-22,Individual,Available
+CAR-0915,Toyota,Camry,2022,65000.0,20103.0,Diesel,Manual,Sharjah,2025-12-19,Dealer,Available
+CAR-0443,Honda,Civic,2018,38000.0,114876.0,Petrol,Manual,Abu Dhabi,2025-11-19,Dealer,Available
+CAR-0856,Hyundai,Tucson,2014,27500.0,17471.0,Petrol,Manual,Abu Dhabi,2025-09-17,Dealer,Available
+CAR-0324,Kia,Sportage,2025,68500.0,29965.0,Diesel,Manual,Ajman,2026-02-05,Dealer,Available
+CAR-0874,Nissan,Altima,2020,44000.0,182514.0,Diesel,Manual,Dubai,2025-12-23,Individual,Available
+CAR-0195,Toyota,Camry,2016,40500.0,214618.0,Petrol,Automatic,Sharjah,2026-09-14,Dealer,Available
+CAR-0844,Lexus,ES 300h,2012,43000.0,68007.0,Hybrid,Automatic,Ajman,2025-11-30,Dealer,Available
+CAR-0760,Toyota,Corolla,2018,34000.0,97962.0,Diesel,Automatic,Sharjah,2026-02-22,Individual,Available
+CAR-0347,Lexus,ES 300h,2017,77000.0,193171.0,Petrol,Automatic,Dubai,2026-07-03,Individual,Available
+CAR-0841,Hyundai,Tucson,2025,64000.0,81403.0,Petrol,Manual,Ajman,2025-12-06,Individual,Available
+CAR-0303,Nissan,Altima,2019,37500.0,100742.0,Diesel,Manual,Sharjah,2026-05-23,Individual,Available
+CAR-0105,Lexus,ES 300h,2021,105000.0,151063.0,Hybrid,Automatic,Abu Dhabi,,Dealer,Available
+CAR-0076,Honda,Civic,2025,55500.0,20259.0,Diesel,Automatic,Abu Dhabi,2025-01-11,Individual,Available
+CAR-0182,Toyota,Corolla,2020,36500.0,55915.0,Diesel,Manual,Dubai,2025-04-01,Individual,Available
+CAR-0036,Unknown,ES 300h,2024,120000.0,229235.0,Hybrid,Automatic,Dubai,2025-09-10,Individual,Available
+CAR-0153,Honda,Civic,2012,22000.0,188163.0,Diesel,Manual,Ajman,2025-05-23,Individual,Available
+CAR-0040,Nissan,Altima,2022,44000.0,5651.0,Unknown,Manual,Sharjah,2026-07-07,Individual,Available
+CAR-0755,Mercedes-Benz,CLA 250,2017,69500.0,200981.0,Diesel,Manual,Abu Dhabi,,Dealer,Available
+CAR-0585,Mercedes-Benz,CLA 250,2014,53500.0,114342.0,Petrol,Automatic,Abu Dhabi,,Individual,Available
+CAR-0297,Kia,Sportage,2020,49500.0,16666.0,Petrol,Manual,Ajman,2025-09-11,Individual,Available
+CAR-0416,Hyundai,Tucson,2012,25000.0,229934.0,Diesel,Manual,Sharjah,2025-12-08,Individual,Available
+CAR-0093,Lexus,ES 300h,2017,73500.0,73240.0,Hybrid,Manual,Dubai,2026-02-24,Dealer,Available
+CAR-0532,Nissan,Altima,2017,29000.0,112513.0,Petrol,Automatic,Abu Dhabi,2026-08-20,Individual,Available
+CAR-0593,Mercedes-Benz,CLA 250,2021,101500.0,205142.0,Diesel,Automatic,Dubai,2025-04-01,Dealer,Available
+CAR-0051,Honda,Civic,2017,31500.0,96569.0,Unknown,Automatic,Abu Dhabi,2026-03-23,Dealer,Available
+CAR-0398,Toyota,Corolla,2021,32500.0,113282.0,Petrol,Automatic,Ajman,2025-06-29,Individual,Available
+CAR-0516,Mercedes-Benz,CLA 250,,129500.0,183946.0,Petrol,Manual,Abu Dhabi,2025-05-17,Dealer,Available
+CAR-0933,Toyota,Corolla,2012,17000.0,138055.0,Petrol,Automatic,Sharjah,2025-04-25,Dealer,Available
+CAR-0375,Lexus,ES 300h,2023,119000.0,171441.0,Hybrid,Automatic,Dubai,2026-06-19,Individual,Available
+CAR-0437,Hyundai,Tucson,2022,59000.0,100403.0,Diesel,Automatic,Ajman,2025-06-29,Dealer,Available
+CAR-0291,Toyota,Corolla,2016,29000.0,205501.0,Petrol,Manual,Ajman,2025-03-13,Dealer,Available
+CAR-0863,Toyota,Corolla,2022,43000.0,131638.0,Petrol,Automatic,Abu Dhabi,2025-07-08,Dealer,Available
+CAR-0880,Hyundai,Tucson,2025,72000.0,79117.0,Diesel,Automatic,Abu Dhabi,2025-10-15,Individual,Available
+CAR-0892,Hyundai,Tucson,2018,41500.0,206620.0,Petrol,Automatic,Ajman,2025-10-27,Individual,Available
+CAR-0924,Mercedes-Benz,CLA 250,2012,42000.0,190961.0,Petrol,Manual,Sharjah,2025-02-03,Individual,Available
+CAR-0729,Hyundai,Tucson,2018,42000.0,201377.0,Unknown,Automatic,Dubai,2025-11-20,Dealer,Available
+CAR-0810,Hyundai,Tucson,2017,42500.0,111481.0,Petrol,Manual,Ajman,2025-02-19,Dealer,Available
+CAR-0393,Nissan,Altima,2012,15500.0,209143.0,Petrol,Automatic,Sharjah,2026-03-25,Dealer,Available
+CAR-0925,Nissan,Altima,2025,57500.0,8385.0,Diesel,Manual,Sharjah,2025-08-06,Dealer,Available
+CAR-0494,Toyota,Corolla,2015,26000.0,,Petrol,Automatic,Dubai,2025-04-29,Dealer,Available
+CAR-0471,Honda,Civic,2017,12000.0,146933.0,Diesel,Manual,Abu Dhabi,2025-08-10,Individual,Available
+CAR-0919,Lexus,ES 300h,2024,124000.0,39127.0,Hybrid,Automatic,Dubai,2025-05-25,Dealer,Available
+CAR-0678,Kia,Sportage,2012,22500.0,,Petrol,Manual,Abu Dhabi,2025-07-03,Dealer,Available
+CAR-0827,Mercedes-Benz,CLA 250,2012,45000.0,234891.0,Petrol,Automatic,Dubai,,Individual,Available
+CAR-0775,Nissan,Altima,2020,37000.0,146628.0,Petrol,Manual,Dubai,2026-06-30,Dealer,Available
+CAR-0214,Toyota,Camry,2019,50500.0,25612.0,Petrol,Manual,Sharjah,2026-01-04,Individual,Available
+CAR-0461,Hyundai,Tucson,2025,66000.0,6938.0,Petrol,Automatic,Abu Dhabi,,Dealer,Available
+CAR-0069,Honda,Civic,2022,44500.0,134625.0,Diesel,Automatic,Ajman,2025-05-31,Dealer,Available
+CAR-0301,Toyota,Corolla,2012,11000.0,148176.0,Diesel,Manual,Ajman,2025-06-19,Dealer,Available
+CAR-0202,Mercedes-Benz,CLA 250,2014,51500.0,142619.0,Petrol,Automatic,Abu Dhabi,2026-02-27,Dealer,Available
+CAR-0427,Hyundai,Tucson,2020,47000.0,224900.0,Diesel,Automatic,Abu Dhabi,2026-07-02,Dealer,Available
+CAR-0922,Toyota,Corolla,2025,50000.0,234732.0,Diesel,Automatic,Abu Dhabi,2025-05-01,Dealer,Available
+CAR-0635,Toyota,Corolla,,19500.0,129128.0,Diesel,Automatic,Abu Dhabi,2026-08-07,Individual,Available
+CAR-0227,Nissan,Corolla,2022,41500.0,172813.0,Diesel,Automatic,Ajman,2026-05-27,Individual,Available
+CAR-0189,Honda,Civic,2023,45500.0,17060.0,Diesel,Automatic,Abu Dhabi,2026-06-05,Individual,Available
+CAR-0878,Kia,Sportage,2020,51500.0,95396.0,Petrol,Automatic,Ajman,2025-03-16,Individual,Available
+CAR-0926,Kia,Sportage,2023,64500.0,167084.0,Diesel,Automatic,Abu Dhabi,2026-02-05,Individual,Available
+CAR-0911,Honda,Civic,2018,36000.0,97220.0,Petrol,Automatic,Abu Dhabi,2025-03-05,Dealer,Available
+CAR-0088,Lexus,ES 300h,2022,105500.0,201869.0,Hybrid,Automatic,Abu Dhabi,2026-04-20,Individual,Available
+CAR-0583,Mercedes-Benz,CLA 250,2020,91500.0,35110.0,Petrol,Manual,Sharjah,2025-10-29,Dealer,Available
+CAR-0541,Kia,Sportage,2020,52000.0,105946.0,Diesel,Automatic,Ajman,2026-09-13,Individual,Available
+CAR-0062,Kia,Sportage,2014,25000.0,124891.0,Petrol,Automatic,Abu Dhabi,2026-04-17,Dealer,Available
+CAR-0220,Toyota,Corolla,2021,33000.0,82532.0,Petrol,Automatic,Abu Dhabi,2025-04-25,Dealer,Available
+CAR-0894,Honda,Civic,2017,37500.0,187558.0,Diesel,Manual,Abu Dhabi,2026-01-19,Individual,Available
+CAR-0345,Nissan,Altima,2020,40000.0,56752.0,Petrol,Automatic,Ajman,2026-06-14,Dealer,Available
+CAR-0769,Toyota,Corolla,2012,14500.0,181358.0,Diesel,Automatic,Abu Dhabi,2026-02-23,Individual,Available
+CAR-0145,Nissan,Altima,2018,35500.0,149207.0,Diesel,Manual,Abu Dhabi,2026-03-06,Dealer,Available
+CAR-0566,Honda,Civic,2020,42000.0,96572.0,Petrol,Automatic,Sharjah,2026-07-04,Individual,Available
+CAR-0199,Hyundai,Tucson,2014,28000.0,124681.0,Petrol,Automatic,Dubai,2026-07-18,Dealer,Available
+CAR-0928,Toyota,Camry,2012,27500.0,35548.0,Petrol,Manual,Ajman,2025-02-07,Individual,Available
+CAR-0007,Toyota,Corolla,2020,30500.0,146131.0,Diesel,Automatic,Dubai,,Dealer,Available
+CAR-0190,Kia,Sportage,2017,40000.0,48535.0,Diesel,Automatic,Dubai,2026-09-21,Dealer,Available
+CAR-0159,Lexus,ES 300h,2015,66000.0,95076.0,Hybrid,Manual,Dubai,2026-05-19,Individual,Available
+CAR-0581,Toyota,Camry,2016,34000.0,99750.0,Petrol,Manual,Ajman,2026-04-05,Individual,Available
+CAR-0932,Lexus,ES 300h,2014,56000.0,118784.0,Hybrid,Automatic,Dubai,2026-05-06,Individual,Available
+CAR-0161,Nissan,Altima,2020,44000.0,82176.0,Petrol,Automatic,Sharjah,,Dealer,Available
+CAR-0246,Toyota,ES 300h,2013,44500.0,116881.0,Hybrid,Automatic,Sharjah,2025-11-04,Dealer,Available
+CAR-0201,Hyundai,Tucson,2015,27500.0,111935.0,Petrol,Automatic,Sharjah,2025-10-10,Individual,Available
+CAR-0211,Nissan,Altima,2015,27000.0,182423.0,Petrol,Automatic,Ajman,2025-02-03,Individual,Available
+CAR-0722,Lexus,ES 300h,2014,55500.0,179016.0,Unknown,Manual,Dubai,2025-02-01,Individual,Available
+CAR-0613,Mercedes-Benz,CLA 250,2015,59500.0,199901.0,Diesel,Manual,Ajman,,Individual,Available
+CAR-0343,Hyundai,Tucson,2021,54000.0,121585.0,Petrol,Manual,Abu Dhabi,2026-06-04,Individual,Available
+CAR-0114,Kia,Sportage,2019,49000.0,14202.0,Petrol,Automatic,Sharjah,2026-08-31,Individual,Available
+CAR-0238,Toyota,Tucson,2020,45500.0,109265.0,Diesel,Manual,Dubai,2025-08-13,Dealer,Available
+CAR-0881,Kia,Sportage,2016,35500.0,77131.0,Diesel,Automatic,Abu Dhabi,2026-01-09,Individual,Available
+CAR-0486,Kia,Sportage,2014,12000.0,17596.0,Petrol,Manual,Abu Dhabi,2025-12-08,Dealer,Available
+CAR-0292,Nissan,Altima,2024,56000.0,85899.0,Petrol,Automatic,Abu Dhabi,2026-01-04,Dealer,Available
+CAR-0359,Honda,Civic,2022,52000.0,75562.0,Petrol,Manual,Sharjah,2025-07-29,Individual,Available
+CAR-0540,Nissan,Altima,2024,46500.0,43557.0,Petrol,Manual,Sharjah,2025-07-28,Individual,Available
+CAR-0002,Lexus,Unknown,2023,117000.0,41290.0,Hybrid,Manual,Abu Dhabi,2025-01-24,Dealer,Available
+CAR-0787,Hyundai,Tucson,2022,58000.0,13456.0,Petrol,Manual,Sharjah,2025-07-27,Individual,Available
+CAR-0378,Mercedes-Benz,CLA 250,2025,125000.0,181878.0,Petrol,Manual,Abu Dhabi,2026-07-19,Dealer,Available
+CAR-0436,Mercedes-Benz,CLA 250,2013,49500.0,18519.0,Diesel,Automatic,Dubai,2025-08-31,Dealer,Available
+CAR-0162,Hyundai,Tucson,2018,43000.0,226062.0,Petrol,Manual,Dubai,2025-03-28,Individual,Available
+CAR-0326,Lexus,ES 300h,2015,59000.0,135293.0,Diesel,Automatic,Sharjah,2025-09-10,Dealer,Available
+CAR-0623,Lexus,ES 300h,2017,72000.0,203753.0,Hybrid,Automatic,Ajman,,Individual,Available
+CAR-0006,Lexus,ES 300h,2024,120000.0,98332.0,Hybrid,Automatic,Unknown,2025-05-21,Dealer,Available
+CAR-0270,Nissan,Altima,2025,52500.0,69393.0,Diesel,Automatic,Abu Dhabi,2026-06-15,Dealer,Available
+CAR-0463,Lexus,ES 300h,2017,80000.0,94048.0,Hybrid,Automatic,Dubai,2025-08-14,Individual,Available
+CAR-0403,Kia,Sportage,2023,63000.0,233014.0,Diesel,Automatic,Ajman,2026-05-23,Dealer,Available
+CAR-0241,Nissan,CLA 250,2016,63000.0,164971.0,Petrol,Automatic,Sharjah,2025-08-04,Dealer,Available
+CAR-0234,Mercedes-Benz,Camry,2019,48500.0,103678.0,Diesel,Automatic,Dubai,2025-04-07,Individual,Available
+CAR-0401,Kia,Sportage,2022,61000.0,15308.0,Petrol,Automatic,Sharjah,2025-11-12,Individual,Available
+CAR-0365,Toyota,Corolla,2017,30000.0,61294.0,Diesel,Automatic,Ajman,2025-08-15,Dealer,Available
+CAR-0106,Toyota,Camry,2016,35000.0,88725.0,Diesel,Automatic,Dubai,2026-04-25,Dealer,Available
+CAR-0160,Mercedes-Benz,CLA 250,2013,51000.0,84529.0,Petrol,Automatic,Ajman,2025-10-01,Dealer,Available
+CAR-0872,Toyota,Camry,2018,44500.0,40918.0,Diesel,Automatic,Sharjah,2025-04-29,Individual,Available
+CAR-0765,Nissan,Altima,2025,54000.0,143858.0,Petrol,Automatic,Sharjah,2025-08-16,Individual,Available
+CAR-0016,Mercedes-Benz,Unknown,2018,81500.0,90301.0,Petrol,Manual,Ajman,2025-09-08,Dealer,Available
+CAR-0022,Unknown,CLA 250,2016,68000.0,119740.0,Diesel,Manual,Abu Dhabi,2025-01-22,Individual,Available
+CAR-0056,Honda,Civic,2020,40000.0,42483.0,Diesel,Manual,Unknown,2026-01-19,Individual,Available
+CAR-0468,Toyota,Corolla,2024,49000.0,147482.0,Diesel,Manual,Sharjah,2026-09-20,Individual,Available
+CAR-0269,Lexus,ES 300h,2017,73500.0,224403.0,Hybrid,Manual,Dubai,2025-07-13,Dealer,Available
+CAR-0574,Hyundai,Tucson,2025,66000.0,53558.0,Diesel,Manual,Dubai,2025-02-13,Dealer,Available
+CAR-0947,Nissan,Altima,2021,46500.0,114543.0,Diesel,Automatic,Sharjah,2025-06-08,Individual,Available
+CAR-0942,Honda,Civic,2018,32000.0,221437.0,Petrol,Automatic,Ajman,2026-10-04,Individual,Available
+CAR-0250,Nissan,Camry,2019,45500.0,159905.0,Diesel,Automatic,Sharjah,2025-12-19,Individual,Available
+CAR-0910,Mercedes-Benz,CLA 250,2013,46000.0,59829.0,Petrol,Manual,Dubai,2026-07-01,Dealer,Available
+CAR-0075,Hyundai,Tucson,2012,19000.0,121928.0,Diesel,Manual,Sharjah,2025-01-11,Dealer,Available
+CAR-0168,Kia,Sportage,2020,46500.0,76017.0,Petrol,Manual,Sharjah,2025-02-04,Dealer,Available
+CAR-0914,Lexus,ES 300h,2018,86000.0,65609.0,Hybrid,Manual,Ajman,2026-03-24,Dealer,Available
+CAR-0208,Mercedes-Benz,CLA 250,2021,102500.0,120783.0,Petrol,Manual,Ajman,2026-04-07,Individual,Available
+CAR-0715,Hyundai,Tucson,2024,62000.0,160270.0,Petrol,Automatic,Dubai,2025-08-31,Individual,Available
+CAR-0063,Kia,Sportage,2024,64000.0,38184.0,Diesel,Automatic,Dubai,2026-09-14,Dealer,Available
+CAR-0188,Hyundai,Tucson,2019,51000.0,55233.0,Diesel,Automatic,Dubai,2026-01-16,Dealer,Available
+CAR-0047,Kia,Sportage,2012,18500.0,218624.0,Unknown,Manual,Abu Dhabi,2025-07-10,Individual,Available
+CAR-0938,Nissan,Altima,2017,29500.0,104368.0,Petrol,Manual,Dubai,2025-02-21,Individual,Available
+CAR-0222,Toyota,Civic,2014,21500.0,230997.0,Petrol,Manual,Sharjah,2026-09-17,Individual,Available
+CAR-0429,Toyota,Camry,2015,30500.0,63112.0,Petrol,Automatic,Dubai,,Individual,Available
+CAR-0355,Mercedes-Benz,CLA 250,2025,123000.0,106027.0,Diesel,Automatic,Ajman,2025-04-17,Dealer,Available
+CAR-0283,Toyota,Camry,2020,57000.0,117503.0,Petrol,Manual,Sharjah,2025-06-11,Individual,Available
+CAR-0353,Kia,Sportage,2018,40000.0,86330.0,Petrol,Manual,Abu Dhabi,2025-07-18,Dealer,Available
+CAR-0217,Lexus,ES 300h,2014,57500.0,125792.0,Hybrid,Automatic,Dubai,2026-06-30,Dealer,Available
+CAR-0727,Honda,Civic,2021,40500.0,202997.0,Unknown,Manual,Ajman,2025-10-01,Individual,Available
+CAR-0001,Unknown,ES 300h,2022,112000.0,58893.0,Hybrid,Manual,Sharjah,2026-04-07,Dealer,Available
+CAR-0885,Nissan,Altima,2019,37000.0,38641.0,Diesel,Manual,Dubai,2026-05-13,Individual,Available
+CAR-0278,Nissan,Altima,2021,41000.0,175697.0,Petrol,Manual,Abu Dhabi,2026-04-08,Individual,Available
+CAR-0183,Toyota,Camry,2012,26500.0,179342.0,Diesel,Automatic,Sharjah,2025-08-21,Individual,Available
+CAR-0228,Hyundai,Camry,2022,58500.0,189365.0,Petrol,Automatic,Abu Dhabi,2025-09-04,Individual,Available
+CAR-0118,Lexus,ES 300h,2021,107000.0,20301.0,Hybrid,Automatic,Sharjah,2026-04-29,Individual,Available
+CAR-0901,Lexus,ES 300h,2013,49500.0,172168.0,Hybrid,Automatic,Ajman,2026-08-27,Individual,Available
+CAR-0743,Nissan,Altima,2020,43500.0,188455.0,Petrol,Manual,Dubai,2026-04-05,Dealer,Available
+CAR-0091,Toyota,Camry,2014,35500.0,64468.0,Diesel,Manual,Ajman,2025-06-11,Individual,Available
+CAR-0791,Mercedes-Benz,CLA 250,2012,35500.0,223753.0,Diesel,Manual,Sharjah,2025-01-10,Dealer,Available
+CAR-0865,Mercedes-Benz,CLA 250,2022,101500.0,192600.0,Petrol,Manual,Dubai,,Individual,Available
+CAR-0949,Kia,Sportage,2016,38000.0,132588.0,Diesel,Automatic,Sharjah,2026-04-18,Individual,Available
+CAR-0107,Nissan,Altima,2022,42000.0,169555.0,Petrol,Automatic,Abu Dhabi,2026-01-30,Individual,Available
+CAR-0766,Kia,Sportage,2018,46500.0,48519.0,Diesel,Automatic,Dubai,2026-03-03,Dealer,Available
+CAR-0435,Nissan,Altima,2021,38000.0,214731.0,Petrol,Automatic,Dubai,2025-11-19,Dealer,Available
+CAR-0079,Toyota,Camry,2018,48000.0,55658.0,Petrol,Automatic,Abu Dhabi,2026-08-14,Dealer,Available
+CAR-0418,Honda,Civic,2013,18000.0,170733.0,Diesel,Automatic,Ajman,2025-05-19,Individual,Available
+CAR-0115,Hyundai,Tucson,2017,41500.0,232416.0,Petrol,Automatic,Abu Dhabi,2026-08-20,Dealer,Available
+CAR-0020,Lexus,ES 300h,2012,40500.0,114578.0,Hybrid,Automatic,Unknown,2026-09-06,Individual,Available
+CAR-0934,Nissan,Altima,2021,46500.0,50066.0,Petrol,Manual,Abu Dhabi,2025-10-25,Individual,Available
+CAR-0496,Toyota,Corolla,2020,37500.0,,Diesel,Automatic,Dubai,2026-02-28,Individual,Available
+CAR-0513,Nissan,Altima,2020,27000.0,171167.0,Diesel,Automatic,Dubai,2026-08-16,Individual,Available
+CAR-0349,Toyota,Corolla,2019,31500.0,159072.0,Diesel,Manual,Dubai,2026-06-28,Individual,Available
+CAR-0604,Mercedes-Benz,CLA 250,2012,38000.0,218526.0,Petrol,Manual,Abu Dhabi,,Individual,Available
+CAR-0573,Nissan,Altima,2024,47000.0,170987.0,Petrol,Manual,Dubai,2026-08-31,Dealer,Available
+CAR-0606,Honda,Civic,2025,56000.0,7641.0,Diesel,Automatic,Sharjah,,Individual,Available
+CAR-0632,Nissan,Altima,,35000.0,233432.0,Diesel,Automatic,Ajman,2025-04-03,Dealer,Available
+CAR-0453,Mercedes-Benz,CLA 250,2023,114000.0,153887.0,Diesel,Automatic,Dubai,2025-06-04,Individual,Available
+CAR-0627,Hyundai,Tucson,2018,44000.0,71921.0,Petrol,Automatic,Abu Dhabi,,Dealer,Available
+CAR-0256,Toyota,Sportage,2012,23500.0,141674.0,Petrol,Automatic,Abu Dhabi,2025-08-19,Dealer,Available
+CAR-0502,Mercedes-Benz,CLA 250,2016,62000.0,85000.0,Diesel,Manual,Dubai,2025-06-18,Individual,Available
+CAR-0749,Lexus,ES 300h,2025,129000.0,36959.0,Hybrid,Automatic,Sharjah,2026-05-20,Individual,Available
+CAR-0340,Toyota,Corolla,2018,26500.0,203223.0,Petrol,Automatic,Dubai,2025-08-30,Dealer,Available
+CAR-0495,Toyota,Corolla,2019,37500.0,85000.0,Diesel,Manual,Sharjah,2025-09-27,Dealer,Available
+CAR-0799,Kia,Sportage,2012,17500.0,165736.0,Diesel,Automatic,Dubai,2026-06-13,Dealer,Available
+CAR-0864,Toyota,Corolla,2019,32500.0,205498.0,Petrol,Automatic,Sharjah,2025-09-04,Individual,Available
+CAR-0318,Kia,Sportage,2013,29500.0,124162.0,Diesel,Automatic,Abu Dhabi,2025-12-19,Individual,Available
+CAR-0092,Lexus,ES 300h,2024,124500.0,36071.0,Hybrid,Manual,Sharjah,,Dealer,Available
+CAR-0595,Honda,Civic,2023,49500.0,34335.0,Petrol,Manual,Dubai,2025-01-25,Individual,Available
+CAR-0163,Kia,Sportage,2023,61500.0,96741.0,Petrol,Automatic,Sharjah,2025-05-26,Dealer,Available
+CAR-0937,Lexus,ES 300h,2018,80500.0,160109.0,Hybrid,Automatic,Dubai,2025-12-10,Individual,Available
+CAR-0206,Mercedes-Benz,CLA 250,2016,69500.0,93330.0,Petrol,Automatic,Dubai,2026-04-22,Dealer,Available
+CAR-0259,Mercedes-Benz,Sportage,2016,34500.0,212020.0,Diesel,Automatic,Sharjah,2025-04-01,Individual,Available
+CAR-0877,Toyota,Camry,2021,56000.0,228735.0,Diesel,Manual,Ajman,2025-08-14,Dealer,Available
+CAR-0470,Mercedes-Benz,CLA 250,2017,73000.0,203855.0,Petrol,Manual,Sharjah,2025-10-26,Individual,Available
+CAR-0527,Lexus,ES 300h,2020,93000.0,147212.0,Hybrid,Manual,Dubai,2026-03-03,Individual,Available
+CAR-0413,Toyota,Camry,2023,67000.0,25020.0,Petrol,Manual,Sharjah,2026-02-23,Individual,Available
+CAR-0899,Hyundai,Tucson,2014,27500.0,78926.0,Petrol,Manual,Ajman,2026-02-04,Dealer,Available
+CAR-0117,Nissan,Altima,2019,39500.0,114490.0,Petrol,Automatic,Sharjah,2025-09-07,Dealer,Available
